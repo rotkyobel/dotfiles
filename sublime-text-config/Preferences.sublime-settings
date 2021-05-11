@@ -1,0 +1,34 @@
+{
+	"auto_close_tags": true,
+	"auto_match_enabled": true,
+	"bold_folder_labels": false,
+	"caret_extra_bottom": 3,
+	"caret_extra_top": 3,
+	"caret_extra_width": 2,
+	"centurion_folder_icons": true,
+	"class": "sidebar_label",
+	"color_scheme": "Packages/Theme - Cyanide/Monocyanide - Contrasted.tmTheme",
+	"contrasted_quick_panel": true,
+	"contrasted_tabs": true,
+	"fade_fold_buttons": true,
+	"font_face": "JetBrains Mono Slashed",
+	"font_size": 16,
+	"highlight_line": false,
+	"icon_file_type_enable": true,
+	"ignored_packages":
+	[
+	],
+	"large_scroll_bars": true,
+	"overlay_scroll_bars": "enabled",
+	"rulers":
+	[
+		100
+	],
+	"spacefunk_folder_icons": true,
+	"tabs_medium": true,
+	"theme": "Cyanide - Love.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": false,
+	"ubuntu_mono_ui": true,
+	"word_wrap": true
+}
