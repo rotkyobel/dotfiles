@@ -2,5 +2,9 @@
     {
         "class": "sidebar_label",
         "font.size": 14
-    }
+    },
+    {
+        "class": "tab_label",
+        "font.size": 14
+    },
 ]
