@@ -1,8 +1,0 @@
-{
-"cmd": ["g++","$file_name","-lm","-o", "${file_base_name}.exe", "&&", "start", "cmd", "/k" , "${file_path}/${file_base_name}.exe"],
-"selector": "source.c, source.c++, source.cxx, source.cpp",
-"shell": true,
-//Pueden usar "/c" para que se cierre automaticamente el terminal
-//Pueden usar "/k" para que no se cierre terminal.
-//&pause es para que salga el mensaje de presionar una tecla...
-}
