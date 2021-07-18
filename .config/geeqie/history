@@ -1,0 +1,21 @@
+#History lists
+
+[shortcuts]
+".[path](null)"
+"Home[path]/home/rotkyobel"
+"Desktop[path]/home/rotkyobel/Desktop"
+"Collections[path]/home/rotkyobel/.local/share/geeqie/collections"
+
+[path_list]
+"/home/rotkyobel/Dropbox/Pictures/LOOΠΔ"
+"/home/rotkyobel/Dropbox/Pictures/GFriend"
+"/home/hw"
+"/home/hw/pictures/Anime"
+"/home/hw/Dropbox/Pictures/GFriend"
+"/home/hw/Dropbox/Pictures/Wallpapers"
+"/home/hw/pictures/Wallpapers"
+"/home/hw/pictures/GFriend"
+"/home/hw/pictures/screenshots"
+"/home/hw/Dropbox/Pictures/Screenshots"
+
+#end
