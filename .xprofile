@@ -1,3 +1,4 @@
 nitrogen --restore &
 blueman-applet &
 dropbox &
+udiskie &
