@@ -66,33 +66,26 @@ bindkey '^[[P' delete-char
 autoload edit-command-line; zle -N edit-command-line
 bindkey '^e' edit-command-line
 
-# mpd aliases to stop / run
-alias kek="killall mpd"
-#alias mpd="mpd && ~/.ncmpcpp/ncmpcpp-ueberzug/ncmpcpp-ueberzug"
-alias mpdd="kek && mpd"
-
 # youtube-dl to download stuffs
-alias yt='youtube-dl --extract-audio --add-metadata --xattrs --embed-thumbnail --audio-quality 0 --audio-format mp3'
+alias yt='youtube-dl --extract-audio --add-metadata --xattrs --embed-thumbnail --audio-quality 0 --audio-format mp3 -o "%(title)s.%(ext)s"'
 alias ytv='youtube-dl --merge-output-format mp4 -f "bestvideo+bestaudio[ext=m4a]/best" --write-srt --sub-lang en --embed-sub -i --embed-thumbnail --add-metadata -o "%(title)s.%(ext)s"'
+alias aryt='youtube-dl --merge-output-format mp4 -f "bestvideo+bestaudio[ext=m4a]/best" --write-srt --sub-lang en --embed-sub -i --embed-thumbnail --add-metadata -o "%(title)s.%(ext)s" --external-downloader aria2c --external-downloader-args '-c -j 16 -x 16 -s 16 -k 1M' --file-allocation=falloc'
 
 # St
 alias load="kill -USR1 $(pidof st)"
-alias  use="xrdb merge"
+alias use="xrdb merge"
 
 ###
 alias grep='grep --color=auto'
 alias cat='bat --style=plain --paging=never'
 alias ls='exa --group-directories-first'
+alias l='exa --group-directories-first -l'
+alias ll='exa --group-directories-first -l'
+alias la='exa --group-directories-first -la'
 alias tree='exa -T'
-
-# Dotfiles
-alias dotfiles='/usr/bin/git --git-dir=$HOME/Dotfiles --work-tree=$HOME'
 
 # Personal Scripts
 path=('/home/hw/.local/bin' $path)
-path=('/home/hw/.local/scripts' $path)
-path=('/home/hw/.local/scripts/bspwm' $path)
-path=('/home/hw/.local/scripts/tmux' $path)
 export PATH
 
 # Fzf
@@ -108,6 +101,6 @@ wal-fill() {
 }
 
 # Load syntax highlighting; should be last.
-source /usr/share/zsh/plugins/fast-syntax-highlighting.plugin.zsh 2>/dev/null
+source /usr/share/zsh/plugins/fast-syntax-highlighting/fast-syntax-highlighting.plugin.zsh 2>/dev/null
 
-
+. /usr/local/bin/z.sh
