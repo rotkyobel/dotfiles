@@ -1,0 +1,12 @@
+#!/bin/sh
+
+echo "Chosing a random wallpaper..."
+wall=$(find $HOME/pix/wal -type f | shuf -n 1)
+echo "Setting up wallpaper..."
+feh --bg-fill $wall
+echo "Generating pywal color schemes..."
+wal -i $wall >/dev/null
+sed -i 'N;$!P;D' $HOME/.cache/wal/colors-wal-dwm.h
+echo "Recompiling dwm with new colors..."
+(cd $HOME/.local/src/dwm && sudo make clean install>/dev/null)
+echo "Restart dwm for new look!"

@@ -1,9 +1,9 @@
 sw_volume: 40
 audio_device_state:1:pulse audio
 audio_device_state:1:glava_fifo
-state: pause
-current: 2
-time: 137.942000
+state: play
+current: 135
+time: 120.081000
 random: 0
 repeat: 1
 single: 0
@@ -12,16 +12,324 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Skillet - Victorious (2019) [320]/1. Legendary.mp3
-1:Skillet - Victorious (2019) [320]/2. You Ain't Ready.mp3
-2:Skillet - Victorious (2019) [320]/3. Victorious.mp3
-3:Skillet - Victorious (2019) [320]/4. This Is the Kingdom.mp3
-4:Skillet - Victorious (2019) [320]/5. Save Me.mp3
-5:Skillet - Victorious (2019) [320]/6. Rise Up.mp3
-6:Skillet - Victorious (2019) [320]/7. Terrify the Dark.mp3
-7:Skillet - Victorious (2019) [320]/8. Never Going Back.mp3
-8:Skillet - Victorious (2019) [320]/9. Reach.mp3
-9:Skillet - Victorious (2019) [320]/10. Anchor.mp3
-10:Skillet - Victorious (2019) [320]/11. Finish Line.mp3
-11:Skillet - Victorious (2019) [320]/12. Back to Life.mp3
+0:GFriend/1st Album - LOL/01 여자친구 - INTRO.flac
+1:GFriend/1st Album - LOL/02 여자친구 - 물들어요 (Fall in Love).flac
+2:GFriend/1st Album - LOL/03 여자친구 - 너 그리고 나 (NAVILLERA).flac
+3:GFriend/1st Album - LOL/04 여자친구 - LOL.flac
+4:GFriend/1st Album - LOL/05 여자친구 - 한 뼘 (Distance).flac
+5:GFriend/1st Album - LOL/06 여자친구 - 물꽃놀이 (Water Flower).flac
+6:GFriend/1st Album - LOL/07 여자친구 - Mermaid.flac
+7:GFriend/1st Album - LOL/08 여자친구 - 나의 일기장 (Sunshine).flac
+8:GFriend/1st Album - LOL/09 여자친구 - 나침반 (Compas).flac
+9:GFriend/1st Album - LOL/10 여자친구 - 찰칵 (Click).flac
+10:GFriend/1st Album - LOL/11 여자친구 - 바람에 날려 (Gone with the wind).flac
+11:GFriend/1st Album - LOL/12 여자친구 - 너 그리고 나 (NAVILLERA) (Inst.).flac
+12:GFriend/1st Mini Album - Season Of Glass/01 여자친구 - Intro (Season Of Glass).flac
+13:GFriend/1st Mini Album - Season Of Glass/02 여자친구 - 유리구슬 (Glass Bead).flac
+14:GFriend/1st Mini Album - Season Of Glass/03 여자친구 - Neverland.flac
+15:GFriend/1st Mini Album - Season Of Glass/04 여자친구 - White (하얀마음).flac
+16:GFriend/1st Mini Album - Season Of Glass/05 여자친구 - 유리구슬 (Glass Bead) [Inst.].flac
+17:GFriend/1st Repackage Album  - Rainbow/01 여자친구 - INTRO (BELIEF).flac
+18:GFriend/1st Repackage Album  - Rainbow/02 여자친구 - 귀를 기울이면 (LOVE WHISPER).flac
+19:GFriend/1st Repackage Album  - Rainbow/03 여자친구 - 여름비 (SUMMER RAIN).flac
+20:GFriend/1st Repackage Album  - Rainbow/04 여자친구 - RAINBOW.flac
+21:GFriend/1st Repackage Album  - Rainbow/05 여자친구 - 두 손을 모아 (AVE MARIA).flac
+22:GFriend/1st Repackage Album  - Rainbow/06 여자친구 - 이분의 일 1-2 (ONE-HALF).flac
+23:GFriend/1st Repackage Album  - Rainbow/07 여자친구 - LIFE IS A PARTY.flac
+24:GFriend/1st Repackage Album  - Rainbow/08 여자친구 - 빨간우산 (RED UMBRELLA).flac
+25:GFriend/1st Repackage Album  - Rainbow/09 여자친구 - 그루잠 (FALLING ASLEEP AGAIN).flac
+26:GFriend/1st Repackage Album  - Rainbow/10 여자친구 - 여름비 (SUMMER RAIN) (INST.).flac
+27:GFriend/1st Special Summer Mini Album - Sunny Summer/01 여름여름해 (Sunny Summer).flac
+28:GFriend/1st Special Summer Mini Album - Sunny Summer/02 Vacation.flac
+29:GFriend/1st Special Summer Mini Album - Sunny Summer/03 Sweety.flac
+30:GFriend/1st Special Summer Mini Album - Sunny Summer/04 바람 바람 바람 (Windy Windy).flac
+31:GFriend/1st Special Summer Mini Album - Sunny Summer/05 Love In The Air.flac
+32:GFriend/2nd Album - Time for Us/01 해야 (Sunrise).flac
+33:GFriend/2nd Album - Time for Us/02 You are not alone.flac
+34:GFriend/2nd Album - Time for Us/03 기적을 넘어 (L.U.V.).flac
+35:GFriend/2nd Album - Time for Us/04 GLOW (만화경).flac
+36:GFriend/2nd Album - Time for Us/05 비밀 이야기 (Our Secret).flac
+37:GFriend/2nd Album - Time for Us/06 Only 1.flac
+38:GFriend/2nd Album - Time for Us/07 Truly Love.flac
+39:GFriend/2nd Album - Time for Us/08 보호색 (Show Up).flac
+40:GFriend/2nd Album - Time for Us/09 겨울, 끝 (It`s You).flac
+41:GFriend/2nd Album - Time for Us/10 A Starry Sky.flac
+42:GFriend/2nd Album - Time for Us/11 Love Oh Love.flac
+43:GFriend/2nd Album - Time for Us/12 Memoria (Korean Ver.).flac
+44:GFriend/2nd Album - Time for Us/13 해야 (Sunrise) (Inst.).flac
+45:GFriend/2nd Mini Album - Flower Bud/01 여자친구 - Intro (Flower Bud).flac
+46:GFriend/2nd Mini Album - Flower Bud/02 여자친구 - 오늘부터 우리는 (Me Gustas Tu).flac
+47:GFriend/2nd Mini Album - Flower Bud/03 여자친구 - 하늘 아래서.flac
+48:GFriend/2nd Mini Album - Flower Bud/04 여자친구 - One.flac
+49:GFriend/2nd Mini Album - Flower Bud/05 여자친구 - 기억해 (My Buddy).flac
+50:GFriend/2nd Mini Album - Flower Bud/06 여자친구 - 오늘부터 우리는 (Me Gustas Tu) [Inst.].flac
+51:GFriend/3rd Album - 回Walpurgis Night/01. MAGO.flac
+52:GFriend/3rd Album - 回Walpurgis Night/02. Love Spell.flac
+53:GFriend/3rd Album - 回Walpurgis Night/03. Three Of Cups.flac
+54:GFriend/3rd Album - 回Walpurgis Night/04. GRWM.flac
+55:GFriend/3rd Album - 回Walpurgis Night/05. Secret Diary.flac
+56:GFriend/3rd Album - 回Walpurgis Night/06. Better Me.flac
+57:GFriend/3rd Album - 回Walpurgis Night/07. Night Drive.flac
+58:GFriend/3rd Album - 回Walpurgis Night/08. Apple.flac
+59:GFriend/3rd Album - 回Walpurgis Night/09. 교차로 (Crossroads).flac
+60:GFriend/3rd Album - 回Walpurgis Night/10. Labyrinth.flac
+61:GFriend/3rd Album - 回Walpurgis Night/11. 앞면의 뒷면의 뒷면.flac
+62:GFriend/3rd Mini Album - Snowflake/01 여자친구 - INTRO (Snowflake).flac
+63:GFriend/3rd Mini Album - Snowflake/02 여자친구 - 시간을 달려서 (Rough).flac
+64:GFriend/3rd Mini Album - Snowflake/03 여자친구 - 내 이름을 불러줘 (Say My Name).flac
+65:GFriend/3rd Mini Album - Snowflake/04 여자친구 - 사랑별 (Luv Star).flac
+66:GFriend/3rd Mini Album - Snowflake/05 여자친구 - 그런 날엔 (Someday).flac
+67:GFriend/3rd Mini Album - Snowflake/06 여자친구 - TRUST.flac
+68:GFriend/3rd Mini Album - Snowflake/07 여자친구 - 시간을 달려서 (Inst.).flac
+69:GFriend/4th Mini Album - The Awakening/01 여자친구 - 바람의 노래 (Hear The Wind Sing).flac
+70:GFriend/4th Mini Album - The Awakening/02 여자친구 - Fingertip.flac
+71:GFriend/4th Mini Album - The Awakening/03 여자친구 - 비행운_飛行雲 (Contrail).flac
+72:GFriend/4th Mini Album - The Awakening/04 여자친구 - 나의 지구를 지켜줘 (Please Save My Earth).flac
+73:GFriend/4th Mini Album - The Awakening/05 여자친구 - 봄비 (Rain in the Spring Time).flac
+74:GFriend/4th Mini Album - The Awakening/06 여자친구 - 핑 (Crush).flac
+75:GFriend/5th Mini Album - Parallel/01 여자친구 - Intro (BELIEF).flac
+76:GFriend/5th Mini Album - Parallel/02 여자친구 - 귀를 기울이면 (LOVE WHISPER).flac
+77:GFriend/5th Mini Album - Parallel/03 여자친구 - 두 손을 모아 (AVE MARIA).flac
+78:GFriend/5th Mini Album - Parallel/04 여자친구 - 2 (ONE-HALF).flac
+79:GFriend/5th Mini Album - Parallel/05 여자친구 - LIFE IS PARTY.flac
+80:GFriend/5th Mini Album - Parallel/06 여자친구 - 빨간 우산 (RED UMBRELLA).flac
+81:GFriend/5th Mini Album - Parallel/07 여자친구 - 그루잠 (FALLING ASLEEP AGAIN).flac
+82:GFriend/5th Mini Album - Parallel/08 여자친구 - 귀를 기울이면 (LOVE WHISPER) (Inst.).flac
+83:GFriend/6th Mini Album - Time For The Moon Night/01. INTRO(Daytime).flac
+84:GFriend/6th Mini Album - Time For The Moon Night/02. 밤(Time for the moon night).flac
+85:GFriend/6th Mini Album - Time For The Moon Night/03. Love Bug.flac
+86:GFriend/6th Mini Album - Time For The Moon Night/04. 휘리휘리(Flower Garden).flac
+87:GFriend/6th Mini Album - Time For The Moon Night/05. 틱틱(Tik Tik).flac
+88:GFriend/6th Mini Album - Time For The Moon Night/06. Bye.flac
+89:GFriend/6th Mini Album - Time For The Moon Night/07. 별(You are my star).flac
+90:GFriend/6th Mini Album - Time For The Moon Night/08. 밤(Time for the moon night) (Inst.).flac
+91:GFriend/7th Mini Album - Fever Season/01 - 열대야 (Fever).flac
+92:GFriend/7th Mini Album - Fever Season/02 - Mr. Blue.flac
+93:GFriend/7th Mini Album - Fever Season/03 - 좋은 말 할 때 (Smile).flac
+94:GFriend/7th Mini Album - Fever Season/04 - 바라 (Wish).flac
+95:GFriend/7th Mini Album - Fever Season/05 - Paradise.flac
+96:GFriend/7th Mini Album - Fever Season/06 - 기대 (Hope).flac
+97:GFriend/7th Mini Album - Fever Season/07 - FLOWER (Korean Ver.).flac
+98:GFriend/7th Mini Album - Fever Season/08 - 열대야 (Fever) (Instrumental).flac
+99:GFriend/8th Mini Album - Labytinth/01 - Labyrinth.flac
+100:GFriend/8th Mini Album - Labytinth/02 - 교차로 (Crossroads).flac
+101:GFriend/8th Mini Album - Labytinth/03 - Here We Are.flac
+102:GFriend/8th Mini Album - Labytinth/04 - 지금 만나러 갑니다 (Eclipse).flac
+103:GFriend/8th Mini Album - Labytinth/05 - Dreamcatcher.flac
+104:GFriend/8th Mini Album - Labytinth/06 - From Me.flac
+105:GFriend/9th Mini Album- 回 Song of the Sirens/01 - Apple.flac
+106:GFriend/9th Mini Album- 回 Song of the Sirens/02 - Eye of the Storm.flac
+107:GFriend/9th Mini Album- 回 Song of the Sirens/03 - Room of Mirrors.flac
+108:GFriend/9th Mini Album- 回 Song of the Sirens/04 - Tarot Cards.flac
+109:GFriend/9th Mini Album- 回 Song of the Sirens/05 - Crème Brûlée.flac
+110:GFriend/9th Mini Album- 回 Song of the Sirens/06 - Stairs in the North.flac
+111:GFriend/Japan/1st Digital Single Album - 回LABYRINTH ~Crossroads~/01 - Crossroads -JP ver.-.mp3
+112:GFriend/Japan/1st Digital Single Album - 回LABYRINTH ~Crossroads~/02 - Labyrinth -JP ver.-.mp3
+113:GFriend/Japan/1st Japan Album - Kyou Kara Watashitachi wa/01 Glass Bead -JP ver.-.flac
+114:GFriend/Japan/1st Japan Album - Kyou Kara Watashitachi wa/02 今日から私たちは (Me Gustas Tu) -JP ver.-.flac
+115:GFriend/Japan/1st Japan Album - Kyou Kara Watashitachi wa/03 トキヲコエテ（ROUGH） -JP ver.-.flac
+116:GFriend/Japan/1st Japan Album - Kyou Kara Watashitachi wa/04 NAVILLERA -JP ver..flac
+117:GFriend/Japan/1st Japan Album - Kyou Kara Watashitachi wa/05 LOVE WHISPER -JP ver.-.flac
+118:GFriend/Japan/1st Japan Album - Kyou Kara Watashitachi wa/06 TRUST -JP ver.-.flac
+119:GFriend/Japan/1st Japan Album - Kyou Kara Watashitachi wa/07 Glass Bead -KR ver.-.flac
+120:GFriend/Japan/1st Japan Album - Kyou Kara Watashitachi wa/08 Me Gustas Tu -KR ver.-.flac
+121:GFriend/Japan/1st Japan Album - Kyou Kara Watashitachi wa/09 ROUGH -KR ver.-.flac
+122:GFriend/Japan/1st Japan Album - Kyou Kara Watashitachi wa/10 NAVILLERA -KR ver.-.flac
+123:GFriend/Japan/1st Japan Album - Kyou Kara Watashitachi wa/11 LOVE WHISPER -KR ver.-.flac
+124:GFriend/Japan/1st Japan Album - Kyou Kara Watashitachi wa/12 TRUST -KR ver.-.flac
+125:GFriend/Japan/1st Japan Single -Memoria 夜(Time for the moon night)/01 Memoria.flac
+126:GFriend/Japan/1st Japan Single -Memoria 夜(Time for the moon night)/02 夜 (Time for the moon night) -JP ver.-.flac
+127:GFriend/Japan/1st Japan Single -Memoria 夜(Time for the moon night)/03 Memoria (Instrumental).flac
+128:GFriend/Japan/1st Japan Single -Memoria 夜(Time for the moon night)/04 夜 (Time for the moon night) -JP ver.- (Instrumental).flac
+129:GFriend/Japan/2nd Japan Album - Fallin' Light/01 - Fallin_ Light (天使の梯子).flac
+130:GFriend/Japan/2nd Japan Album - Fallin' Light/02 - Emotional Days.flac
+131:GFriend/Japan/2nd Japan Album - Fallin' Light/03 - Memoria.flac
+132:GFriend/Japan/2nd Japan Album - Fallin' Light/04 - 恋の始まり.flac
+133:GFriend/Japan/2nd Japan Album - Fallin' Light/05 - FLOWER.flac
+134:GFriend/Japan/2nd Japan Album - Fallin' Light/06 - My My My!.flac
+135:GFriend/Japan/2nd Japan Album - Fallin' Light/07 - 夜(Time for the moon night) -JP ver.-.flac
+136:GFriend/Japan/2nd Japan Album - Fallin' Light/08 - SUNRISE -JP ver.-.flac
+137:GFriend/Japan/2nd Japan Album - Fallin' Light/09 - La pam pam.flac
+138:GFriend/Japan/2nd Japan Album - Fallin' Light/10 - Beautiful.flac
+139:GFriend/Japan/2nd Japan Album - Fallin' Light/11 - My Buddy -JP ver.-.flac
+140:GFriend/Japan/2nd Japan Digital Single Album- 回Song of the Sirens ~Apple~/01 - Apple -JP ver.-.mp3
+141:GFriend/Japan/2nd Japan Digital Single Album- 回Song of the Sirens ~Apple~/02 - Tarot Cards -JP ver.-.mp3
+142:GFriend/Japan/2nd Japan Single - SUNRISE/01 SUNRISE –JP ver.-.flac
+143:GFriend/Japan/2nd Japan Single - SUNRISE/02 La pam pam.flac
+144:GFriend/Japan/2nd Japan Single - SUNRISE/03 SUNRISE –JP ver.- (Instrumental).flac
+145:GFriend/Japan/2nd Japan Single - SUNRISE/04 La pam pam (Instrumental).flac
+146:GFriend/Japan/3rd Japan Single – FLOWER/01 FLOWER.flac
+147:GFriend/Japan/3rd Japan Single – FLOWER/02 Beautiful.flac
+148:GFriend/Japan/3rd Japan Single – FLOWER/03 FLOWER (Instrumental).flac
+149:GFriend/Japan/3rd Japan Single – FLOWER/04 Beautiful (Instrumental).flac
+150:GFriend/OST/EUNHA (은하) - At The End of Time (시간의 끝에서).mp3
+151:GFriend/OST/What's Wrong With Secretary Kim OST Part. 3/01. Wanna Be.flac
+152:GFriend/OST/What's Wrong With Secretary Kim OST Part. 3/02. Wanna Be (Instr.).flac
+153:GFriend/1st Album - LOL/01 여자친구 - INTRO.flac
+154:GFriend/1st Album - LOL/02 여자친구 - 물들어요 (Fall in Love).flac
+155:GFriend/1st Album - LOL/03 여자친구 - 너 그리고 나 (NAVILLERA).flac
+156:GFriend/1st Album - LOL/04 여자친구 - LOL.flac
+157:GFriend/1st Album - LOL/05 여자친구 - 한 뼘 (Distance).flac
+158:GFriend/1st Album - LOL/06 여자친구 - 물꽃놀이 (Water Flower).flac
+159:GFriend/1st Album - LOL/07 여자친구 - Mermaid.flac
+160:GFriend/1st Album - LOL/08 여자친구 - 나의 일기장 (Sunshine).flac
+161:GFriend/1st Album - LOL/09 여자친구 - 나침반 (Compas).flac
+162:GFriend/1st Album - LOL/10 여자친구 - 찰칵 (Click).flac
+163:GFriend/1st Album - LOL/11 여자친구 - 바람에 날려 (Gone with the wind).flac
+164:GFriend/1st Album - LOL/12 여자친구 - 너 그리고 나 (NAVILLERA) (Inst.).flac
+165:GFriend/1st Mini Album - Season Of Glass/01 여자친구 - Intro (Season Of Glass).flac
+166:GFriend/1st Mini Album - Season Of Glass/02 여자친구 - 유리구슬 (Glass Bead).flac
+167:GFriend/1st Mini Album - Season Of Glass/03 여자친구 - Neverland.flac
+168:GFriend/1st Mini Album - Season Of Glass/04 여자친구 - White (하얀마음).flac
+169:GFriend/1st Mini Album - Season Of Glass/05 여자친구 - 유리구슬 (Glass Bead) [Inst.].flac
+170:GFriend/1st Repackage Album  - Rainbow/01 여자친구 - INTRO (BELIEF).flac
+171:GFriend/1st Repackage Album  - Rainbow/02 여자친구 - 귀를 기울이면 (LOVE WHISPER).flac
+172:GFriend/1st Repackage Album  - Rainbow/03 여자친구 - 여름비 (SUMMER RAIN).flac
+173:GFriend/1st Repackage Album  - Rainbow/04 여자친구 - RAINBOW.flac
+174:GFriend/1st Repackage Album  - Rainbow/05 여자친구 - 두 손을 모아 (AVE MARIA).flac
+175:GFriend/1st Repackage Album  - Rainbow/06 여자친구 - 이분의 일 1-2 (ONE-HALF).flac
+176:GFriend/1st Repackage Album  - Rainbow/07 여자친구 - LIFE IS A PARTY.flac
+177:GFriend/1st Repackage Album  - Rainbow/08 여자친구 - 빨간우산 (RED UMBRELLA).flac
+178:GFriend/1st Repackage Album  - Rainbow/09 여자친구 - 그루잠 (FALLING ASLEEP AGAIN).flac
+179:GFriend/1st Repackage Album  - Rainbow/10 여자친구 - 여름비 (SUMMER RAIN) (INST.).flac
+180:GFriend/1st Special Summer Mini Album - Sunny Summer/01 여름여름해 (Sunny Summer).flac
+181:GFriend/1st Special Summer Mini Album - Sunny Summer/02 Vacation.flac
+182:GFriend/1st Special Summer Mini Album - Sunny Summer/03 Sweety.flac
+183:GFriend/1st Special Summer Mini Album - Sunny Summer/04 바람 바람 바람 (Windy Windy).flac
+184:GFriend/1st Special Summer Mini Album - Sunny Summer/05 Love In The Air.flac
+185:GFriend/2nd Album - Time for Us/01 해야 (Sunrise).flac
+186:GFriend/2nd Album - Time for Us/02 You are not alone.flac
+187:GFriend/2nd Album - Time for Us/03 기적을 넘어 (L.U.V.).flac
+188:GFriend/2nd Album - Time for Us/04 GLOW (만화경).flac
+189:GFriend/2nd Album - Time for Us/05 비밀 이야기 (Our Secret).flac
+190:GFriend/2nd Album - Time for Us/06 Only 1.flac
+191:GFriend/2nd Album - Time for Us/07 Truly Love.flac
+192:GFriend/2nd Album - Time for Us/08 보호색 (Show Up).flac
+193:GFriend/2nd Album - Time for Us/09 겨울, 끝 (It`s You).flac
+194:GFriend/2nd Album - Time for Us/10 A Starry Sky.flac
+195:GFriend/2nd Album - Time for Us/11 Love Oh Love.flac
+196:GFriend/2nd Album - Time for Us/12 Memoria (Korean Ver.).flac
+197:GFriend/2nd Album - Time for Us/13 해야 (Sunrise) (Inst.).flac
+198:GFriend/2nd Mini Album - Flower Bud/01 여자친구 - Intro (Flower Bud).flac
+199:GFriend/2nd Mini Album - Flower Bud/02 여자친구 - 오늘부터 우리는 (Me Gustas Tu).flac
+200:GFriend/2nd Mini Album - Flower Bud/03 여자친구 - 하늘 아래서.flac
+201:GFriend/2nd Mini Album - Flower Bud/04 여자친구 - One.flac
+202:GFriend/2nd Mini Album - Flower Bud/05 여자친구 - 기억해 (My Buddy).flac
+203:GFriend/2nd Mini Album - Flower Bud/06 여자친구 - 오늘부터 우리는 (Me Gustas Tu) [Inst.].flac
+204:GFriend/3rd Album - 回Walpurgis Night/01. MAGO.flac
+205:GFriend/3rd Album - 回Walpurgis Night/02. Love Spell.flac
+206:GFriend/3rd Album - 回Walpurgis Night/03. Three Of Cups.flac
+207:GFriend/3rd Album - 回Walpurgis Night/04. GRWM.flac
+208:GFriend/3rd Album - 回Walpurgis Night/05. Secret Diary.flac
+209:GFriend/3rd Album - 回Walpurgis Night/06. Better Me.flac
+210:GFriend/3rd Album - 回Walpurgis Night/07. Night Drive.flac
+211:GFriend/3rd Album - 回Walpurgis Night/08. Apple.flac
+212:GFriend/3rd Album - 回Walpurgis Night/09. 교차로 (Crossroads).flac
+213:GFriend/3rd Album - 回Walpurgis Night/10. Labyrinth.flac
+214:GFriend/3rd Album - 回Walpurgis Night/11. 앞면의 뒷면의 뒷면.flac
+215:GFriend/3rd Mini Album - Snowflake/01 여자친구 - INTRO (Snowflake).flac
+216:GFriend/3rd Mini Album - Snowflake/02 여자친구 - 시간을 달려서 (Rough).flac
+217:GFriend/3rd Mini Album - Snowflake/03 여자친구 - 내 이름을 불러줘 (Say My Name).flac
+218:GFriend/3rd Mini Album - Snowflake/04 여자친구 - 사랑별 (Luv Star).flac
+219:GFriend/3rd Mini Album - Snowflake/05 여자친구 - 그런 날엔 (Someday).flac
+220:GFriend/3rd Mini Album - Snowflake/06 여자친구 - TRUST.flac
+221:GFriend/3rd Mini Album - Snowflake/07 여자친구 - 시간을 달려서 (Inst.).flac
+222:GFriend/4th Mini Album - The Awakening/01 여자친구 - 바람의 노래 (Hear The Wind Sing).flac
+223:GFriend/4th Mini Album - The Awakening/02 여자친구 - Fingertip.flac
+224:GFriend/4th Mini Album - The Awakening/03 여자친구 - 비행운_飛行雲 (Contrail).flac
+225:GFriend/4th Mini Album - The Awakening/04 여자친구 - 나의 지구를 지켜줘 (Please Save My Earth).flac
+226:GFriend/4th Mini Album - The Awakening/05 여자친구 - 봄비 (Rain in the Spring Time).flac
+227:GFriend/4th Mini Album - The Awakening/06 여자친구 - 핑 (Crush).flac
+228:GFriend/5th Mini Album - Parallel/01 여자친구 - Intro (BELIEF).flac
+229:GFriend/5th Mini Album - Parallel/02 여자친구 - 귀를 기울이면 (LOVE WHISPER).flac
+230:GFriend/5th Mini Album - Parallel/03 여자친구 - 두 손을 모아 (AVE MARIA).flac
+231:GFriend/5th Mini Album - Parallel/04 여자친구 - 2 (ONE-HALF).flac
+232:GFriend/5th Mini Album - Parallel/05 여자친구 - LIFE IS PARTY.flac
+233:GFriend/5th Mini Album - Parallel/06 여자친구 - 빨간 우산 (RED UMBRELLA).flac
+234:GFriend/5th Mini Album - Parallel/07 여자친구 - 그루잠 (FALLING ASLEEP AGAIN).flac
+235:GFriend/5th Mini Album - Parallel/08 여자친구 - 귀를 기울이면 (LOVE WHISPER) (Inst.).flac
+236:GFriend/6th Mini Album - Time For The Moon Night/01. INTRO(Daytime).flac
+237:GFriend/6th Mini Album - Time For The Moon Night/02. 밤(Time for the moon night).flac
+238:GFriend/6th Mini Album - Time For The Moon Night/03. Love Bug.flac
+239:GFriend/6th Mini Album - Time For The Moon Night/04. 휘리휘리(Flower Garden).flac
+240:GFriend/6th Mini Album - Time For The Moon Night/05. 틱틱(Tik Tik).flac
+241:GFriend/6th Mini Album - Time For The Moon Night/06. Bye.flac
+242:GFriend/6th Mini Album - Time For The Moon Night/07. 별(You are my star).flac
+243:GFriend/6th Mini Album - Time For The Moon Night/08. 밤(Time for the moon night) (Inst.).flac
+244:GFriend/7th Mini Album - Fever Season/01 - 열대야 (Fever).flac
+245:GFriend/7th Mini Album - Fever Season/02 - Mr. Blue.flac
+246:GFriend/7th Mini Album - Fever Season/03 - 좋은 말 할 때 (Smile).flac
+247:GFriend/7th Mini Album - Fever Season/04 - 바라 (Wish).flac
+248:GFriend/7th Mini Album - Fever Season/05 - Paradise.flac
+249:GFriend/7th Mini Album - Fever Season/06 - 기대 (Hope).flac
+250:GFriend/7th Mini Album - Fever Season/07 - FLOWER (Korean Ver.).flac
+251:GFriend/7th Mini Album - Fever Season/08 - 열대야 (Fever) (Instrumental).flac
+252:GFriend/8th Mini Album - Labytinth/01 - Labyrinth.flac
+253:GFriend/8th Mini Album - Labytinth/02 - 교차로 (Crossroads).flac
+254:GFriend/8th Mini Album - Labytinth/03 - Here We Are.flac
+255:GFriend/8th Mini Album - Labytinth/04 - 지금 만나러 갑니다 (Eclipse).flac
+256:GFriend/8th Mini Album - Labytinth/05 - Dreamcatcher.flac
+257:GFriend/8th Mini Album - Labytinth/06 - From Me.flac
+258:GFriend/9th Mini Album- 回 Song of the Sirens/01 - Apple.flac
+259:GFriend/9th Mini Album- 回 Song of the Sirens/02 - Eye of the Storm.flac
+260:GFriend/9th Mini Album- 回 Song of the Sirens/03 - Room of Mirrors.flac
+261:GFriend/9th Mini Album- 回 Song of the Sirens/04 - Tarot Cards.flac
+262:GFriend/9th Mini Album- 回 Song of the Sirens/05 - Crème Brûlée.flac
+263:GFriend/9th Mini Album- 回 Song of the Sirens/06 - Stairs in the North.flac
+264:GFriend/Japan/1st Digital Single Album - 回LABYRINTH ~Crossroads~/01 - Crossroads -JP ver.-.mp3
+265:GFriend/Japan/1st Digital Single Album - 回LABYRINTH ~Crossroads~/02 - Labyrinth -JP ver.-.mp3
+266:GFriend/Japan/1st Japan Album - Kyou Kara Watashitachi wa/01 Glass Bead -JP ver.-.flac
+267:GFriend/Japan/1st Japan Album - Kyou Kara Watashitachi wa/02 今日から私たちは (Me Gustas Tu) -JP ver.-.flac
+268:GFriend/Japan/1st Japan Album - Kyou Kara Watashitachi wa/03 トキヲコエテ（ROUGH） -JP ver.-.flac
+269:GFriend/Japan/1st Japan Album - Kyou Kara Watashitachi wa/04 NAVILLERA -JP ver..flac
+270:GFriend/Japan/1st Japan Album - Kyou Kara Watashitachi wa/05 LOVE WHISPER -JP ver.-.flac
+271:GFriend/Japan/1st Japan Album - Kyou Kara Watashitachi wa/06 TRUST -JP ver.-.flac
+272:GFriend/Japan/1st Japan Album - Kyou Kara Watashitachi wa/07 Glass Bead -KR ver.-.flac
+273:GFriend/Japan/1st Japan Album - Kyou Kara Watashitachi wa/08 Me Gustas Tu -KR ver.-.flac
+274:GFriend/Japan/1st Japan Album - Kyou Kara Watashitachi wa/09 ROUGH -KR ver.-.flac
+275:GFriend/Japan/1st Japan Album - Kyou Kara Watashitachi wa/10 NAVILLERA -KR ver.-.flac
+276:GFriend/Japan/1st Japan Album - Kyou Kara Watashitachi wa/11 LOVE WHISPER -KR ver.-.flac
+277:GFriend/Japan/1st Japan Album - Kyou Kara Watashitachi wa/12 TRUST -KR ver.-.flac
+278:GFriend/Japan/1st Japan Single -Memoria 夜(Time for the moon night)/01 Memoria.flac
+279:GFriend/Japan/1st Japan Single -Memoria 夜(Time for the moon night)/02 夜 (Time for the moon night) -JP ver.-.flac
+280:GFriend/Japan/1st Japan Single -Memoria 夜(Time for the moon night)/03 Memoria (Instrumental).flac
+281:GFriend/Japan/1st Japan Single -Memoria 夜(Time for the moon night)/04 夜 (Time for the moon night) -JP ver.- (Instrumental).flac
+282:GFriend/Japan/2nd Japan Album - Fallin' Light/01 - Fallin_ Light (天使の梯子).flac
+283:GFriend/Japan/2nd Japan Album - Fallin' Light/02 - Emotional Days.flac
+284:GFriend/Japan/2nd Japan Album - Fallin' Light/03 - Memoria.flac
+285:GFriend/Japan/2nd Japan Album - Fallin' Light/04 - 恋の始まり.flac
+286:GFriend/Japan/2nd Japan Album - Fallin' Light/05 - FLOWER.flac
+287:GFriend/Japan/2nd Japan Album - Fallin' Light/06 - My My My!.flac
+288:GFriend/Japan/2nd Japan Album - Fallin' Light/07 - 夜(Time for the moon night) -JP ver.-.flac
+289:GFriend/Japan/2nd Japan Album - Fallin' Light/08 - SUNRISE -JP ver.-.flac
+290:GFriend/Japan/2nd Japan Album - Fallin' Light/09 - La pam pam.flac
+291:GFriend/Japan/2nd Japan Album - Fallin' Light/10 - Beautiful.flac
+292:GFriend/Japan/2nd Japan Album - Fallin' Light/11 - My Buddy -JP ver.-.flac
+293:GFriend/Japan/2nd Japan Digital Single Album- 回Song of the Sirens ~Apple~/01 - Apple -JP ver.-.mp3
+294:GFriend/Japan/2nd Japan Digital Single Album- 回Song of the Sirens ~Apple~/02 - Tarot Cards -JP ver.-.mp3
+295:GFriend/Japan/2nd Japan Single - SUNRISE/01 SUNRISE –JP ver.-.flac
+296:GFriend/Japan/2nd Japan Single - SUNRISE/02 La pam pam.flac
+297:GFriend/Japan/2nd Japan Single - SUNRISE/03 SUNRISE –JP ver.- (Instrumental).flac
+298:GFriend/Japan/2nd Japan Single - SUNRISE/04 La pam pam (Instrumental).flac
+299:GFriend/Japan/3rd Japan Single – FLOWER/01 FLOWER.flac
+300:GFriend/Japan/3rd Japan Single – FLOWER/02 Beautiful.flac
+301:GFriend/Japan/3rd Japan Single – FLOWER/03 FLOWER (Instrumental).flac
+302:GFriend/Japan/3rd Japan Single – FLOWER/04 Beautiful (Instrumental).flac
+303:GFriend/OST/EUNHA (은하) - At The End of Time (시간의 끝에서).mp3
+304:GFriend/OST/Eunha (GFRIEND) - She Would Never Know OST Part.3/01. 설레 (Pit-A-Pat).mp3
+305:GFriend/OST/Eunha (GFRIEND) - She Would Never Know OST Part.3/02. 설레 (Pit-A-Pat) (Inst.).mp3
+306:GFriend/OST/SinB - Do Do Sol Sol La La Sol OST Part.2/01. 꿈인 듯 해 (You Are Like My Dream).mp3
+307:GFriend/OST/SinB - Do Do Sol Sol La La Sol OST Part.2/02. 꿈인 듯 해 (You Are Like My Dream) (Inst_).mp3
+308:GFriend/OST/SINB (GFRIEND) - A Love So Beautiful OST Part.2/01. Loveable.mp3
+309:GFriend/OST/SINB (GFRIEND) - A Love So Beautiful OST Part.2/02. Loveable (Instrumental).mp3
+310:GFriend/OST/What's Wrong With Secretary Kim OST Part. 3/01. Wanna Be.flac
+311:GFriend/OST/What's Wrong With Secretary Kim OST Part. 3/02. Wanna Be (Instr.).flac
+312:GFriend/OST/Yuju (GFRIEND) - Alice OST Part.1/01. Secret (Feat. ISHXRK).mp3
+313:GFriend/OST/Yuju (GFRIEND) - Alice OST Part.1/02. Secret (Feat. ISHXRK) (Inst.).mp3
+314:GFriend/OST/Yuju (GFRIEND) - Bossam_ Steal the Fate OST Part.11/01. 위로 (String Ver.).mp3
+315:GFriend/OST/Yuju (GFRIEND) - Bossam_ Steal the Fate OST Part.11/02. 위로.mp3
+316:GFriend/OST/Yuju (GFRIEND) - Bossam_ Steal the Fate OST Part.11/03. 위로 (String Ver.) (Inst.).mp3
+317:GFriend/OST/Yuju (GFRIEND) - Bossam_ Steal the Fate OST Part.11/04. 위로 (Inst.).mp3
+318:GFriend/OST/Yuju (GFRIEND) - True Beauty OST Part.2/01. I'm in the Mood for Dancing.mp3
+319:GFriend/OST/Yuju (GFRIEND) - True Beauty OST Part.2/02. I'm in the mood for Dancing (Inst.).mp3
 playlist_end

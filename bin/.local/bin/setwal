@@ -1,0 +1,8 @@
+#!/bin/sh
+
+echo "Chosing a random wallpaper..."
+wall=$(find $HOME/pix/wal -type f | shuf -n 1)
+echo "Setting up wallpaper..."
+feh --bg-fill $wall
+echo "Generating pywal color schemes..."
+wal -i $wall >/dev/null

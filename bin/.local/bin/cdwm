@@ -1,0 +1,6 @@
+#!/bin/sh
+
+sed -i 'N;$!P;D' $HOME/.cache/wal/colors-wal-dwm.h
+echo "Recompiling dwm with new colors..."
+(cd $HOME/.local/src/dwm && sudo make clean install>/dev/null)
+echo "Restart dwm for new look!"
