@@ -1,0 +1,84 @@
+#######################
+# Program Keybindings #
+#######################
+
+# make sxhkd reload its configuration files:
+super + Escape
+  pkill -USR1 -x sxhkd && dunstify "sxhkd" "Reloaded"
+
+###################################
+########### System Keys ###########
+###################################
+
+#----~ Init ~----#
+
+# browser
+super + shift + b
+  brave
+# vscode
+super + shift + c
+  code
+# file explorer
+super + shift + o
+  pcmanfm
+# postman
+super + shift + p
+  postman
+
+# music
+super + m
+  st -e ncmpcpp-ueberzug
+XF86Tools
+  st -e ncmpcpp
+
+# mpc controls
+XF86AudioPrev
+  mpc prev
+XF86AudioNext
+  mpc next
+XF86AudioPlay
+  mpc toggle
+super + alt + comma
+  mpc prev
+super + alt + period
+  mpc next
+super + alt + slash
+  mpc toggle
+super + slash
+  mpc repeat
+super + question
+  mpc single
+
+# volume controls
+XF86AudioLowerVolume
+  amixer set Master 5%-
+XF86AudioRaiseVolume
+  amixer set Master 5%+
+XF86AudioMute
+  amixer set Master toggle
+
+# scripts
+super + n
+  notes
+super + i
+  emoji
+Print
+  scmenu
+super + z
+  logout.sh
+
+# dunst
+# close
+# ctrl + space
+#   dunstctl close
+# close all
+ctrl + shift + space
+  dunstctl close-all
+# history
+ctrl + grave
+  dunstctl history-pop
+# context
+ctrl + shift + period
+  dunstctl context
+
+
