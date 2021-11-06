@@ -1,0 +1,27 @@
+sw_volume: 40
+audio_device_state:1:pulse audio
+audio_device_state:1:glava_fifo
+state: pause
+current: 2
+time: 137.942000
+random: 0
+repeat: 1
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Skillet - Victorious (2019) [320]/1. Legendary.mp3
+1:Skillet - Victorious (2019) [320]/2. You Ain't Ready.mp3
+2:Skillet - Victorious (2019) [320]/3. Victorious.mp3
+3:Skillet - Victorious (2019) [320]/4. This Is the Kingdom.mp3
+4:Skillet - Victorious (2019) [320]/5. Save Me.mp3
+5:Skillet - Victorious (2019) [320]/6. Rise Up.mp3
+6:Skillet - Victorious (2019) [320]/7. Terrify the Dark.mp3
+7:Skillet - Victorious (2019) [320]/8. Never Going Back.mp3
+8:Skillet - Victorious (2019) [320]/9. Reach.mp3
+9:Skillet - Victorious (2019) [320]/10. Anchor.mp3
+10:Skillet - Victorious (2019) [320]/11. Finish Line.mp3
+11:Skillet - Victorious (2019) [320]/12. Back to Life.mp3
+playlist_end
