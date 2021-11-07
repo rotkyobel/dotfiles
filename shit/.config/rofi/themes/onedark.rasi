@@ -26,7 +26,7 @@
   spacing: 0;
   background-color: transparent;
 
-  font: "Sarasa Mono K semibold 14";
+  font: "Sarasa Mono SC semibold 14";
   text-color: @text;
 }
 
