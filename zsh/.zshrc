@@ -76,7 +76,7 @@ bindkey '^e' edit-command-line
 # youtube-dl to download stuffs
 alias yt='youtube-dl --extract-audio --add-metadata --xattrs --embed-thumbnail --audio-quality 0 --audio-format mp3 -o "%(title)s.%(ext)s"'
 alias ytv='youtube-dl --merge-output-format mp4 -f "bestvideo+bestaudio[ext=m4a]/best" --write-srt --sub-lang en --embed-sub -i --embed-thumbnail --add-metadata -o "%(title)s.%(ext)s"'
-alias aryt='youtube-dl --merge-output-format mp4 -f "bestvideo+bestaudio[ext=m4a]/best" --write-srt --sub-lang en --embed-sub -i --embed-thumbnail --add-metadata -o "%(title)s.%(ext)s" --external-downloader aria2c --external-downloader-args '-c -j 16 -x 16 -s 16 -k 1M' --file-allocation=none'
+alias aryt='youtube-dl --merge-output-format mp4 -f "bestvideo+bestaudio[ext=m4a]/best" --write-srt --sub-lang en --embed-sub -i --embed-thumbnail --add-metadata -o "%(title)s.%(ext)s" --downloader aria2c'
 
 # St
 alias load="kill -USR1 $(pidof st)"

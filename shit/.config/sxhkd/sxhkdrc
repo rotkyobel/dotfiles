@@ -66,6 +66,8 @@ Print
   scmenu
 super + z
   logout.sh
+super + p
+  color-gpick
 
 # dunst
 # close
