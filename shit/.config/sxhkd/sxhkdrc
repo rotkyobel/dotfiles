@@ -83,4 +83,8 @@ ctrl + grave
 ctrl + shift + period
   dunstctl context
 
+# xkill
+ctrl + shift + x
+  xkill
+
 

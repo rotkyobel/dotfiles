@@ -32,16 +32,13 @@ if [ -d /etc/X11/xinit/xinitrc.d ] ; then
  unset f
 fi
 
-export LIBVA_DRIVER_NAME='vdpau'
-export VDPAU_DRIVER='nvidia'
-export LIBVA_DRIVERS_PATH='/usr/lib/dri'
 export _JAVA_AWT_WM_NONREPARENTING=1
 export QT_QPA_PLATFORMTHEME="qt5ct"
 xrandr --output DVI-D-0 --mode 1920x1080 --pos 1920x0 --rotate normal --output HDMI-0 --primary --mode 1920x1080 --pos 0x0 --rotate normal --output DP-0 --off --output DP-1 --off &
 sxhkd &
 setxkbmap -option caps:escape
 redshift &
-dunst $HOME/.config/dunst/dunstrc_xr_colors &
+dunst &
 picom &
 udiskie &
 nm-applet &
