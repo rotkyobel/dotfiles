@@ -130,3 +130,6 @@ fi
 unset __conda_setup
 # <<< conda initialize <<<
 
+# initial message
+# cowsay 'i hate my life' | lolcat
+figlet Life sucks | lolcat

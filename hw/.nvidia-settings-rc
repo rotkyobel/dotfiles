@@ -2,7 +2,7 @@
 # /home/hw/.nvidia-settings-rc
 #
 # Configuration file for nvidia-settings - the NVIDIA X Server Settings utility
-# Generated on Mon Nov 15 07:47:36 2021
+# Generated on Mon Dec  6 17:15:02 2021
 #
 
 # ConfigProperties:
@@ -13,9 +13,9 @@ SliderTextEntries = Yes
 IncludeDisplayNameInConfigFile = No
 ShowQuitDialog = Yes
 UpdateRulesOnProfileNameChange = Yes
-Timer = PowerMizer_Monitor_(GPU_0),Yes,1000
-Timer = Thermal_Monitor_(GPU_0),Yes,1000
 Timer = Memory_Used_(GPU_0),Yes,3000
+Timer = Thermal_Monitor_(GPU_0),Yes,1000
+Timer = PowerMizer_Monitor_(GPU_0),Yes,1000
 
 # Attributes:
 
@@ -27,7 +27,7 @@ Timer = Memory_Used_(GPU_0),Yes,3000
 0/AllowFlipping=1
 0/FSAAAppControlled=1
 0/LogAnisoAppControlled=1
-0/OpenGLImageSettings=0
+0/OpenGLImageSettings=3
 0/FSAAAppEnhanced=0
 0/ShowGraphicsVisualIndicator=0
 0/XVideoSyncToDisplayID=HDMI-0

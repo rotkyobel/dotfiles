@@ -84,7 +84,7 @@ ctrl + shift + period
   dunstctl context
 
 # xkill
-ctrl + shift + x
-  xkill
+# ctrl + shift + x
+#   xkill
 
 
