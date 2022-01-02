@@ -1,7 +1,9 @@
-sw_volume: 100
+sw_volume: 30
 audio_device_state:1:pulse audio
 audio_device_state:1:glava_fifo
-state: stop
+state: pause
+current: 11
+time: 45.509000
 random: 0
 repeat: 0
 single: 0
@@ -10,4 +12,110 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
+0:Kpop/OH MY GIRL/Oh My Girl - CLOSER [FLAC]/1-01 Closer.flac
+1:Kpop/OH MY GIRL/Oh My Girl - Rocket Ride [FLAC]/1-01 Rocket Ride (feat. Mougleta).mp3
+2:Kpop/OH MY GIRL/Oh My Girl - CLOSER [FLAC]/1-05 Round About.flac
+3:Kpop/OH MY GIRL/Oh My Girl - Eternally [FLAC]/1-08 Love O'clock.flac
+4:Kpop/OH MY GIRL/Oh My Girl - COLORING BOOK [FLAC]/1-03 Agit.flac
+5:Kpop/OH MY GIRL/Oh My Girl - FALL IN LOVE [FLAC]/1-01 BUNGEE (Fall in Love).flac
+6:Kpop/OH MY GIRL/Oh My Girl - NONSTOP [FLAC]/1-04 NE♡N.flac
+7:Kpop/OH MY GIRL/OH MY GIRL - Dear OHMYGIRL [FLAC]/04 Quest.flac
+8:Kpop/OH MY GIRL/Oh My Girl - OH MY GIRL JAPAN DEBUT ALBUM [FLAC]/1-04 WINDY DAY (Japanese ver.).flac
+9:Kpop/OH MY GIRL/Oh My Girl - FALL IN LOVE [FLAC]/1-11 Checkmate.flac
+10:Kpop/OH MY GIRL/Oh My Girl - WINDY DAY [FLAC]/1-03 LIAR LIAR.flac
+11:Kpop/OH MY GIRL/Oh My Girl - COLORING BOOK [FLAC]/1-05 Perfect Day.flac
+12:Kpop/OH MY GIRL/OH MY GIRL - Dear OHMYGIRL [FLAC]/03 My doll.flac
+13:Kpop/OH MY GIRL/Oh My Girl - Eternally [FLAC]/1-07 BUNGEE (Fall in Love).flac
+14:Kpop/OH MY GIRL/OH MY GIRL - Dear OHMYGIRL [FLAC]/02 Dear you.flac
+15:Kpop/OH MY GIRL/Oh My Girl - Secret Garden [FLAC]/1-02 Love O'clock.flac
+16:Kpop/OH MY GIRL/Oh My Girl - OH MY GIRL JAPAN DEBUT ALBUM [FLAC]/1-10 Coloring Book.flac
+17:Kpop/OH MY GIRL/Oh My Girl - Oh My Girl [FLAC]/1-03 HOT SUMMER NIGHTS.flac
+18:Kpop/OH MY GIRL/Oh My Girl - WINDY DAY [FLAC]/1-06 KNOCK KNOCK.flac
+19:Kpop/OH MY GIRL/Oh My Girl - WINDY DAY [FLAC]/1-08 LIAR LIAR (Chinese Ver).flac
+20:Kpop/OH MY GIRL/Oh My Girl - OH MY GIRL JAPAN DEBUT ALBUM [FLAC]/1-11 WINDY DAY.flac
+21:Kpop/OH MY GIRL/Oh My Girl - NONSTOP [FLAC]/1-01 살짝 설렜어 (Nonstop).flac
+22:Kpop/OH MY GIRL/Oh My Girl - FALL IN LOVE [FLAC]/1-12 다섯 번째 계절 (SSFWL) (Inst.).flac
+23:Kpop/OH MY GIRL/Oh My Girl - OH MY GIRL Japan 2nd Album [FLAC]/1-06 Touch My Heart.flac
+24:Kpop/OH MY GIRL/Oh My Girl - CLOSER [FLAC]/1-03 Playground.flac
+25:Kpop/OH MY GIRL/Oh My Girl - CLOSER [FLAC]/1-02 Say No More.flac
+26:Kpop/OH MY GIRL/Oh My Girl - Secret Garden [FLAC]/1-03 Butterfly.flac
+27:Kpop/OH MY GIRL/Oh My Girl - OH MY GIRL JAPAN DEBUT ALBUM [FLAC]/1-03 Coloring Book (Japanese ver.).flac
+28:Kpop/OH MY GIRL/Oh My Girl - REMEMBER ME [FLAC]/1-03 Twilight.flac
+29:Kpop/OH MY GIRL/Oh My Girl - OH MY GIRL JAPAN DEBUT ALBUM [FLAC]/1-06 CLOSER (Japanese ver.).flac
+30:Kpop/OH MY GIRL/Oh My Girl - Listen to My Word [FLAC]/1-01 내 얘길 들어봐 (A-ing).flac
+31:Kpop/OH MY GIRL/Oh My Girl Banhana - Banana ga Taberenai Saru [FLAC]/1-01 バナナが食べれないサル.flac
+32:Kpop/OH MY GIRL/Oh My Girl - Eternally [FLAC]/1-06 Guerilla.flac
+33:Kpop/OH MY GIRL/Oh My Girl - WINDY DAY [FLAC]/1-07 한발짝 두발짝.flac
+34:Kpop/OH MY GIRL/Oh My Girl - OH MY GIRL JAPAN DEBUT ALBUM [FLAC]/1-09 Secret Garden.flac
+35:Kpop/OH MY GIRL/Oh My Girl - OH MY GIRL JAPAN DEBUT ALBUM [FLAC]/1-13 CLOSER.flac
+36:Kpop/OH MY GIRL/Oh My Girl - FALL IN LOVE [FLAC]/1-05 미제 (Case No.L5VE).flac
+37:Kpop/OH MY GIRL/Oh My Girl - Eternally [FLAC]/1-05 Polaris.flac
+38:Kpop/OH MY GIRL/Oh My Girl - WINDY DAY [FLAC]/1-01 WINDY DAY.flac
+39:Kpop/OH MY GIRL/OH MY GIRL - Dear OHMYGIRL [FLAC]/01  Dun Dun Dance.flac
+40:Kpop/OH MY GIRL/Oh My Girl - OH MY GIRL Japan 2nd Album [FLAC]/1-04 Twilight (Japanese ver.).flac
+41:Kpop/OH MY GIRL/Oh My Girl - FALL IN LOVE [FLAC]/1-07 유성 (Gravity).flac
+42:Kpop/OH MY GIRL/Oh My Girl - PO~MYGIRL [FLAC]/1-04 바라밤 (Inst.).flac
+43:Kpop/OH MY GIRL/Oh My Girl - OH MY GIRL Japan 2nd Album [FLAC]/1-01 五番目の季節 (Japanese ver.).flac
+44:Kpop/OH MY GIRL/Oh My Girl - REMEMBER ME [FLAC]/1-02 메아리 (Echo).flac
+45:Kpop/OH MY GIRL/Oh My Girl - Oh My Girl [FLAC]/1-01 OH MY GIRL!.flac
+46:Kpop/OH MY GIRL/Oh My Girl - OH MY GIRL Japan 2nd Album [FLAC]/1-03 一歩二歩 (Japanese ver.).flac
+47:Kpop/OH MY GIRL/Oh My Girl - Oh My Girl [FLAC]/1-02 CUPID.flac
+48:Kpop/OH MY GIRL/OH MY GIRL - Etoile／Nonstop Japanese ver. [FLAC]/05. Nonstop Japanese ver. (instrumental).flac
+49:Kpop/OH MY GIRL/Oh My Girl - Secret Garden [FLAC]/1-04 Sixteen.flac
+50:Kpop/OH MY GIRL/Oh My Girl - NONSTOP [FLAC]/1-05 Krystal.flac
+51:Kpop/OH MY GIRL/Oh My Girl - Secret Garden [FLAC]/1-05 Magic.flac
+52:Kpop/OH MY GIRL/Oh My Girl - WINDY DAY [FLAC]/1-04 B612.flac
+53:Kpop/OH MY GIRL/Oh My Girl - PO~MYGIRL [FLAC]/1-01 SUPADUPA (천천히 해봐).flac
+54:Kpop/OH MY GIRL/Oh My Girl - NONSTOP [FLAC]/1-02 Dolphin.flac
+55:Kpop/OH MY GIRL/Oh My Girl Banhana - Banana ga Taberenai Saru [FLAC]/1-04 バナナが食べれないサル (Instrumental).flac
+56:Kpop/OH MY GIRL/Oh My Girl - REMEMBER ME [FLAC]/1-04 Illusion.flac
+57:Kpop/OH MY GIRL/Oh My Girl - FALL IN LOVE [FLAC]/1-04 소나기.flac
+58:Kpop/OH MY GIRL/Oh My Girl - OH MY GIRL JAPAN DEBUT ALBUM [FLAC]/1-02 Secret Garden (Japanese ver.).flac
+59:Kpop/OH MY GIRL/Oh My Girl - OH MY GIRL JAPAN DEBUT ALBUM [FLAC]/1-05 LIAR LIAR (Japanese ver.).flac
+60:Kpop/OH MY GIRL/Oh My Girl - NONSTOP [FLAC]/1-03 꽃차 (Flower Tea).flac
+61:Kpop/OH MY GIRL/Oh My Girl Banhana - Banana ga Taberenai Saru [FLAC]/1-03 惚れたんじゃない.flac
+62:Kpop/OH MY GIRL/Oh My Girl - FALL IN LOVE [FLAC]/1-09 심해 (마음이라는 바다).flac
+63:Kpop/OH MY GIRL/Oh My Girl - CLOSER [FLAC]/1-04 Sugar Baby.flac
+64:Kpop/OH MY GIRL/Oh My Girl - COLORING BOOK [FLAC]/1-02 Real World.flac
+65:Kpop/OH MY GIRL/Oh My Girl - OH MY GIRL Japan 2nd Album [FLAC]/1-08 五番目の季節 (SSFWL).flac
+66:Kpop/OH MY GIRL/Oh My Girl - OH MY GIRL Japan 2nd Album [FLAC]/1-02 A-ing (Japanese ver.).flac
+67:Kpop/OH MY GIRL/Oh My Girl - WINDY DAY [FLAC]/1-02 STUPID IN LOVE.flac
+68:Kpop/OH MY GIRL/Oh My Girl - FALL IN LOVE [FLAC]/1-03 다섯 번째 계절 (SSFWL).flac
+69:Kpop/OH MY GIRL/Oh My Girl - Eternally [FLAC]/1-04 Fly to the Sky.flac
+70:Kpop/OH MY GIRL/Oh My Girl - OH MY GIRL JAPAN DEBUT ALBUM [FLAC]/1-08 花火 (Remember Me).flac
+71:Kpop/OH MY GIRL/Oh My Girl - COLORING BOOK [FLAC]/1-01 컬러링북 (Coloring Book).flac
+72:Kpop/OH MY GIRL/OH MY GIRL - Etoile／Nonstop Japanese ver. [FLAC]/02. Nonstop Japanese ver..flac
+73:Kpop/OH MY GIRL/Oh My Girl - REMEMBER ME [FLAC]/1-05 우리 이야기 (Our Story).flac
+74:Kpop/OH MY GIRL/Oh My Girl - COLORING BOOK [FLAC]/1-04 In My Dreams.flac
+75:Kpop/OH MY GIRL/OH MY GIRL - Dear OHMYGIRL [FLAC]/05 Who comes who knows.flac
+76:Kpop/OH MY GIRL/OH MY GIRL - Etoile／Nonstop Japanese ver. [FLAC]/04. Etoile English ver..flac
+77:Kpop/OH MY GIRL/Oh My Girl - FALL IN LOVE [FLAC]/1-06 Tic Toc.flac
+78:Kpop/OH MY GIRL/Oh My Girl - Oh My Girl [FLAC]/1-04 궁금한걸요.flac
+79:Kpop/OH MY GIRL/Oh My Girl Banhana - Banana ga Taberenai Saru [FLAC]/1-05 そうなんだって (Instrumental).flac
+80:Kpop/OH MY GIRL/Oh My Girl - Listen to My Word [FLAC]/1-03 Je T'aime.flac
+81:Kpop/OH MY GIRL/OH MY GIRL - Etoile／Nonstop Japanese ver. [FLAC]/01. Etoile.flac
+82:Kpop/OH MY GIRL/Oh My Girl - OH MY GIRL JAPAN DEBUT ALBUM [FLAC]/1-12 LIAR LIAR.flac
+83:Kpop/OH MY GIRL/Oh My Girl - PO~MYGIRL [FLAC]/1-03 SUPADUPA (천천히 해봐) (Inst.).flac
+84:Kpop/OH MY GIRL/Oh My Girl - Eternally [FLAC]/1-03 Precious Moment.flac
+85:Kpop/OH MY GIRL/Oh My Girl - OH MY GIRL Japan 2nd Album [FLAC]/1-05 Sixteen (Japanese ver.).flac
+86:Kpop/OH MY GIRL/OH MY GIRL - Dear OHMYGIRL [FLAC]/06 Swan.flac
+87:Kpop/OH MY GIRL/Oh My Girl Banhana - Banana ga Taberenai Saru [FLAC]/1-02 そうなんだって.flac
+88:Kpop/OH MY GIRL/Oh My Girl - Eternally [FLAC]/1-02 Eternally.flac
+89:Kpop/OH MY GIRL/Oh My Girl - OH MY GIRL JAPAN DEBUT ALBUM [FLAC]/1-01 花火 (Remember Me) (Japanese ver.).flac
+90:Kpop/OH MY GIRL/Oh My Girl - REMEMBER ME [FLAC]/1-01 불꽃놀이 (Remember Me).flac
+91:Kpop/OH MY GIRL/Oh My Girl - WINDY DAY [FLAC]/1-05 I FOUND LOVE.flac
+92:Kpop/OH MY GIRL/Oh My Girl - FALL IN LOVE [FLAC]/1-08 Crime Scene.flac
+93:Kpop/OH MY GIRL/Oh My Girl - Secret Garden [FLAC]/1-01 비밀정원 (Secret Garden).flac
+94:Kpop/OH MY GIRL/Oh My Girl - Eternally [FLAC]/1-01 BUNGEE (Japanese Version).flac
+95:Kpop/OH MY GIRL/Oh My Girl - OH MY GIRL JAPAN DEBUT ALBUM [FLAC]/1-07 CUPID (Japanese ver.).flac
+96:Kpop/OH MY GIRL/Oh My Girl - Rocket Ride [FLAC]/1-02 Rocket Ride (Korean Version).flac
+97:Kpop/OH MY GIRL/Oh My Girl - OH MY GIRL JAPAN DEBUT ALBUM [FLAC]/1-14 CUPID.flac
+98:Kpop/OH MY GIRL/Oh My Girl - Listen to My Word [FLAC]/1-02 한여름의 크리스마스.flac
+99:Kpop/OH MY GIRL/Oh My Girl - FALL IN LOVE [FLAC]/1-10 Vogue.flac
+100:Kpop/OH MY GIRL/Oh My Girl - FALL IN LOVE [FLAC]/1-02 Tropical Love.flac
+101:Kpop/OH MY GIRL/Oh My Girl Banhana - Banana ga Taberenai Saru [FLAC]/1-06 惚れたんじゃない (Instrumental).flac
+102:Kpop/OH MY GIRL/Oh My Girl - OH MY GIRL Japan 2nd Album [FLAC]/1-07 抱きしめるの.flac
+103:Kpop/OH MY GIRL/Oh My Girl - Listen to My Word [FLAC]/1-04 거짓말도 보여요.flac
+104:Kpop/OH MY GIRL/Oh My Girl - PO~MYGIRL [FLAC]/1-02 바라밤.flac
+105:Kpop/OH MY GIRL/OH MY GIRL - Etoile／Nonstop Japanese ver. [FLAC]/03. Etoile Korean ver..flac
 playlist_end

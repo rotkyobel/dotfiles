@@ -9,7 +9,7 @@ plugins=(
 source $ZSH/oh-my-zsh.sh
 
 # Enable colors and change prompt:
-autoload -U colors && colors	# Load colors
+# autoload -U colors && colors	# Load colors
 setopt autocd		# Automatically cd into typed directory.
 stty stop undef		# Disable ctrl-s to freeze terminal.
 setopt interactive_comments
@@ -91,9 +91,6 @@ alias ll='exa --group-directories-first -l'
 alias la='exa --group-directories-first -la'
 alias tree='exa -T'
 
-# Pick color
-alias pcolor='colorpicker --short --one-shot | xsel -b'
-
 # Personal Scripts
 path=('/home/hw/.local/bin' $path)
 export PATH
@@ -101,35 +98,21 @@ export PATH
 # Fzf
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
-export NVM_DIR="$HOME/.nvm"
-[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
-[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
-
 wal-fill() {
     wal -n -i "$@"
     feh --bg-fill "$(< "${HOME}/.cache/wal/wal")"
 }
 
-# Load syntax highlighting; should be last.
-source /usr/share/zsh/plugins/fast-syntax-highlighting/fast-syntax-highlighting.plugin.zsh 2>/dev/null
-
+# z jumper
 . /usr/local/bin/z.sh
-
-# >>> conda initialize >>>
-# !! Contents within this block are managed by 'conda init' !!
-__conda_setup="$('/home/hw/.miniconda/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
-if [ $? -eq 0 ]; then
-    eval "$__conda_setup"
-else
-    if [ -f "/home/hw/.miniconda/etc/profile.d/conda.sh" ]; then
-        . "/home/hw/.miniconda/etc/profile.d/conda.sh"
-    else
-        export PATH="/home/hw/.miniconda/bin:$PATH"
-    fi
-fi
-unset __conda_setup
-# <<< conda initialize <<<
 
 # initial message
 # cowsay 'i hate my life' | lolcat
 figlet Life sucks | lolcat
+
+# fnm
+export PATH=/home/hw/.fnm:$PATH
+eval "`fnm env`"
+
+# load syntax highlighting; should be last.
+source /usr/share/zsh/plugins/fast-syntax-highlighting/fast-syntax-highlighting.plugin.zsh 2>/dev/null

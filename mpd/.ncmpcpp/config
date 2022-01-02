@@ -1,7 +1,7 @@
 execute_on_song_change="~/.ncmpcpp/ncmpcpp-ueberzug/ncmpcpp_cover_art.sh"
 
 # Files
- mpd_music_dir = "/eunbi/personal/music"
+ mpd_music_dir = "/home/hw/music"
  lyrics_directory  = ~/.ncmpcpp/lyrics
  ncmpcpp_directory  = ~/.ncmpcpp
  mpd_host = "localhost"

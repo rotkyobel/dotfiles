@@ -35,11 +35,12 @@ fi
 export _JAVA_AWT_WM_NONREPARENTING=1
 export QT_QPA_PLATFORMTHEME="qt5ct"
 xrandr --output DVI-D-0 --mode 1920x1080 --pos 1920x0 --rotate normal --output HDMI-0 --primary --mode 1920x1080 --pos 0x0 --rotate normal --output DP-0 --off --output DP-1 --off &
+cpupower-gui profile liv &
 sxhkd &
 setxkbmap -option caps:escape
 redshift &
 dunst &
-picom &
+xcompmgr &
 udiskie &
 nm-applet &
 unclutter --timeout 3 &
@@ -47,7 +48,7 @@ wal -R &
 $HOME/.fehbg &
 $HOME/.local/bin/mpd_start &
 
-dwmblocks &
+/home/hw/.local/src/dwm-bar/dwm_bar.sh &
 while true; do
   dwm >/dev/null 2>&1
 done

@@ -39,4 +39,4 @@ case $BLOCK_BUTTON in
 esac
 
 #date "+%Y %b %d (%a) $icon %H:%M "
-date "+%Y %b %d (%a)  %H:%M "
+date "+%Y %b %d (%a)  %H:%M"

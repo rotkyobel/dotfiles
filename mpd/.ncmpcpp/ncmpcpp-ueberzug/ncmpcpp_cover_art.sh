@@ -2,7 +2,7 @@
 # Cover art script for ncmpcpp-ueberzug
 
 # SETTINGS
-music_library="/eunbi/personal/music"
+music_library="/home/hw/music"
 padding_top=4
 padding_bottom=-1
 padding_right=0

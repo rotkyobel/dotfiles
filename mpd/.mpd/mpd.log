@@ -13,3 +13,543 @@ Jan 01 10:19 : config: option 'device' on line 12 was not recognized
 Jan 01 11:29 : config: option 'device' on line 12 was not recognized
 Jan 01 12:21 : config: option 'device' on line 12 was not recognized
 Jan 01 17:24 : config: option 'device' on line 12 was not recognized
+Jan 01 17:35 : config: option 'device' on line 12 was not recognized
+Jan 01 17:43 : config: option 'device' on line 12 was not recognized
+Jan 01 17:46 : config: option 'device' on line 12 was not recognized
+Jan 01 17:48 : config: option 'device' on line 12 was not recognized
+Jan 01 17:54 : config: option 'device' on line 12 was not recognized
+Jan 01 18:02 : config: option 'device' on line 12 was not recognized
+Jan 01 18:05 : exception: Failed to access /eunbi/personal/music: No such file or directory
+Jan 01 18:05 : exception: Failed to access /eunbi/personal/music: No such file or directory
+Jan 01 18:05 : exception: Failed to access /eunbi/personal/music: No such file or directory
+Jan 01 18:05 : exception: Failed to access /eunbi/personal/music: No such file or directory
+Jan 01 18:07 : client: [0] command "close" during idle
+Jan 01 18:07 : exception: Failed to access /eunbi/personal/music: No such file or directory
+Jan 01 18:07 : exception: Failed to access /eunbi/personal/music: No such file or directory
+Jan 01 18:07 : exception: Failed to access /eunbi/personal/music: No such file or directory
+Jan 01 18:07 : exception: Failed to access /eunbi/personal/music: No such file or directory
+Jan 01 18:07 : exception: Failed to open /home/hw/.mpd/playlists: No such file or directory
+Jan 01 18:07 : exception: Failed to access /eunbi/personal/music: No such file or directory
+Jan 01 18:07 : exception: Failed to access /eunbi/personal/music: No such file or directory
+Jan 01 18:07 : exception: Failed to access /eunbi/personal/music: No such file or directory
+Jan 01 18:07 : exception: Failed to access /eunbi/personal/music: No such file or directory
+Jan 01 18:07 : exception: Failed to access /eunbi/personal/music: No such file or directory
+Jan 01 18:07 : exception: Failed to access /eunbi/personal/music: No such file or directory
+Jan 01 18:07 : exception: Failed to access /eunbi/personal/music: No such file or directory
+Jan 01 18:07 : exception: Failed to access /eunbi/personal/music: No such file or directory
+Jan 01 18:07 : exception: Failed to access /eunbi/personal/music: No such file or directory
+Jan 01 18:07 : exception: Failed to access /eunbi/personal/music: No such file or directory
+Jan 01 18:07 : exception: Failed to access /eunbi/personal/music: No such file or directory
+Jan 01 18:07 : exception: Failed to access /eunbi/personal/music: No such file or directory
+Jan 01 18:07 : exception: Failed to access /eunbi/personal/music: No such file or directory
+Jan 01 18:07 : exception: Failed to access /eunbi/personal/music: No such file or directory
+Jan 01 18:07 : exception: Failed to access /eunbi/personal/music: No such file or directory
+Jan 01 18:07 : config: option 'device' on line 12 was not recognized
+Jan 01 18:08 : config: option 'device' on line 12 was not recognized
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Fallin' Light [FLAC]/1-01 Fallin' Light (天使の梯子).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Fallin' Light [FLAC]/1-02 Emotional Days.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Fallin' Light [FLAC]/1-03 Memoria.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Fallin' Light [FLAC]/1-04 恋の始まり.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Fallin' Light [FLAC]/1-05 FLOWER.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Fallin' Light [FLAC]/1-06 My My My!.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Fallin' Light [FLAC]/1-07 夜(Time for the moon night) -JP ver.-.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Fallin' Light [FLAC]/1-08 SUNRISE -JP ver.-.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Fallin' Light [FLAC]/1-09 La pam pam.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Fallin' Light [FLAC]/1-10 Beautiful.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Fallin' Light [FLAC]/1-11 My Buddy -JP ver.-.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - FEVER SEASON [FLAC]/1-01 열대야 (Fever).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - FEVER SEASON [FLAC]/1-02 Mr. Blue.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - FEVER SEASON [FLAC]/1-03 좋은 말 할 때 (Smile).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - FEVER SEASON [FLAC]/1-04 바라 (Wish).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - FEVER SEASON [FLAC]/1-05 Paradise.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - FEVER SEASON [FLAC]/1-06 기대 (Hope).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - FEVER SEASON [FLAC]/1-07 FLOWER (Korean Ver.).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - FEVER SEASON [FLAC]/1-08 열대야 (Fever) (Inst.).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Flower Bud [FLAC]/1-01 Intro (Flower Bud).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Flower Bud [FLAC]/1-02 오늘부터 우리는 (Me Gustas Tu).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Flower Bud [FLAC]/1-03 하늘 아래서.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Flower Bud [FLAC]/1-04 One.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Flower Bud [FLAC]/1-05 기억해 (My Buddy).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Flower Bud [FLAC]/1-06 오늘부터 우리는 (Me Gustas Tu) (Inst.).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - FLOWER [FLAC]/1-01 FLOWER.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - FLOWER [FLAC]/1-02 Beautiful.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - FLOWER [FLAC]/1-03 FLOWER (Instrumental).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - FLOWER [FLAC]/1-04 Beautiful (Instrumental).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Kyou Kara Watashitachi wa ~GFRIEND 1st Best~ [FLAC]/1-01 Glass Bead -JP ver.-.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Kyou Kara Watashitachi wa ~GFRIEND 1st Best~ [FLAC]/1-02 今日から私たちは (Me Gustas Tu) -JP ver.-.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Kyou Kara Watashitachi wa ~GFRIEND 1st Best~ [FLAC]/1-03 トキヲコエテ（ROUGH） -JP ver.-.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Kyou Kara Watashitachi wa ~GFRIEND 1st Best~ [FLAC]/1-04 NAVILLERA -JP ver..flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Kyou Kara Watashitachi wa ~GFRIEND 1st Best~ [FLAC]/1-05 LOVE WHISPER -JP ver.-.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Kyou Kara Watashitachi wa ~GFRIEND 1st Best~ [FLAC]/1-06 TRUST -JP ver.-.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Kyou Kara Watashitachi wa ~GFRIEND 1st Best~ [FLAC]/1-07 Glass Bead -KR ver.-.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Kyou Kara Watashitachi wa ~GFRIEND 1st Best~ [FLAC]/1-08 Me Gustas Tu -KR ver.-.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Kyou Kara Watashitachi wa ~GFRIEND 1st Best~ [FLAC]/1-09 ROUGH -KR ver.-.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Kyou Kara Watashitachi wa ~GFRIEND 1st Best~ [FLAC]/1-10 NAVILLERA -KR ver.-.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Kyou Kara Watashitachi wa ~GFRIEND 1st Best~ [FLAC]/1-11 LOVE WHISPER -KR ver.-.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Kyou Kara Watashitachi wa ~GFRIEND 1st Best~ [FLAC]/1-12 TRUST -KR ver.-.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - LABYRINTH [FLAC]/1-01 Labyrinth.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - LABYRINTH [FLAC]/1-02 교차로 (Crossroads).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - LABYRINTH [FLAC]/1-03 Here We Are.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - LABYRINTH [FLAC]/1-04 지금 만나러 갑니다 (Eclipse).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - LABYRINTH [FLAC]/1-05 Dreamcatcher.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - LABYRINTH [FLAC]/1-06 From Me.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - LOL [FLAC]/1-01 INTRO.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - LOL [FLAC]/1-02 물들어요 (Fall in Love).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - LOL [FLAC]/1-03 너 그리고 나 (NAVILLERA).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - LOL [FLAC]/1-04 LOL.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - LOL [FLAC]/1-05 한 뼘 (Distance).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - LOL [FLAC]/1-06 물꽃놀이 (Water Flower).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - LOL [FLAC]/1-07 Mermaid.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - LOL [FLAC]/1-08 나의 일기장 (Sunshine).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - LOL [FLAC]/1-09 나침반 (Compas).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - LOL [FLAC]/1-10 찰칵 (Click).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - LOL [FLAC]/1-11 바람에 날려 (Gone with the wind).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - LOL [FLAC]/1-12 너 그리고 나 (NAVILLERA) (Inst.).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Memoria  Time for the moon night [FLAC]/1-01 Memoria.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Memoria  Time for the moon night [FLAC]/1-02 夜 (Time for the moon night) -JP ver.-.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Memoria  Time for the moon night [FLAC]/1-03 Memoria (Instrumental).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Memoria  Time for the moon night [FLAC]/1-04 夜 (Time for the moon night) -JP ver.- (Instrumental).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - PARALLEL [FLAC]/1-01 INTRO (BELIEF).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - PARALLEL [FLAC]/1-02 귀를 기울이면 (LOVE WHISPER).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - PARALLEL [FLAC]/1-03 두 손을 모아 (AVE MARIA).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - PARALLEL [FLAC]/1-04 이분의 일 1 2 (ONE-HALF).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - PARALLEL [FLAC]/1-05 LIFE IS A PARTY.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - PARALLEL [FLAC]/1-06 빨간우산 (RED UMBRELLA).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - PARALLEL [FLAC]/1-07 그루잠 (FALLING ASLEEP AGAIN).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - PARALLEL [FLAC]/1-08 귀를 기울이면 (LOVE WHISPER) (Inst.).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - RAINBOW [FLAC]/1-01 INTRO (BELIEF).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - RAINBOW [FLAC]/1-02 귀를 기울이면 (LOVE WHISPER).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - RAINBOW [FLAC]/1-03 여름비 (SUMMER RAIN).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - RAINBOW [FLAC]/1-04 RAINBOW.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - RAINBOW [FLAC]/1-05 두 손을 모아 (AVE MARIA).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - RAINBOW [FLAC]/1-06 이분의 일 1 2 (ONE-HALF).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - RAINBOW [FLAC]/1-07 LIFE IS A PARTY.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - RAINBOW [FLAC]/1-08 빨간우산 (RED UMBRELLA).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - RAINBOW [FLAC]/1-09 그루잠 (FALLING ASLEEP AGAIN).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - RAINBOW [FLAC]/1-10 여름비 (SUMMER RAIN).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Season of Glass [FLAC]/1-01 Intro (Season of Glass).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Season of Glass [FLAC]/1-02 유리구슬 (Glass Bead).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Season of Glass [FLAC]/1-03 Neverland.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Season of Glass [FLAC]/1-04 White (하얀마음).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Season of Glass [FLAC]/1-05 유리구슬 (Glass Bead) (Inst.).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Snowflake [FLAC]/1-01 Intro (Snowflake).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Snowflake [FLAC]/1-02 시간을 달려서 (ROUGH).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Snowflake [FLAC]/1-03 내 이름을 불러줘 (Say my name).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Snowflake [FLAC]/1-04 사랑별 (Luv Star).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Snowflake [FLAC]/1-05 그런 날엔 (Someday).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Snowflake [FLAC]/1-06 TRUST.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Snowflake [FLAC]/1-07 시간을 달려서 (Inst.).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Song of the Sirens [FLAC]/1-01 Apple.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Song of the Sirens [FLAC]/1-02 눈의 시간.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Song of the Sirens [FLAC]/1-03 거울의 방.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Song of the Sirens [FLAC]/1-04 Tarot Cards.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Song of the Sirens [FLAC]/1-05 Crème Brûlée.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Song of the Sirens [FLAC]/1-06 북쪽 계단.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Sunny Summer [FLAC]/1-01 여름여름해 (Sunny Summer).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Sunny Summer [FLAC]/1-02 Vacation.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Sunny Summer [FLAC]/1-03 Sweety.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Sunny Summer [FLAC]/1-04 바람 바람 바람 (Windy Windy).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Sunny Summer [FLAC]/1-05 Love In The Air.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - SUNRISE [FLAC]/1-01 SUNRISE –JP ver.-.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - SUNRISE [FLAC]/1-02 La pam pam.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - SUNRISE [FLAC]/1-03 SUNRISE –JP ver.- (Instrumental).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - SUNRISE [FLAC]/1-04 La pam pam (Instrumental).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - THE AWAKENING [FLAC]/1-01 바람의 노래 (Hear the Wind Sing).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - THE AWAKENING [FLAC]/1-02 FINGERTIP.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - THE AWAKENING [FLAC]/1-03 비행운 飛行雲 (Contrail).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - THE AWAKENING [FLAC]/1-04 나의 지구를 지켜줘 (Please Save My Earth).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - THE AWAKENING [FLAC]/1-05 봄비 (Rain in the Spring Time).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - THE AWAKENING [FLAC]/1-06 핑 (Crush).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Time for the moon night [FLAC]/1-01 INTRO (Daytime).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Time for the moon night [FLAC]/1-02 밤 (Time for the moon night).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Time for the moon night [FLAC]/1-03 Love Bug.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Time for the moon night [FLAC]/1-04 휘리휘리 (Flower Garden).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Time for the moon night [FLAC]/1-05 틱틱 (Tik Tik).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Time for the moon night [FLAC]/1-06 Bye.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Time for the moon night [FLAC]/1-07 별 (You are my star).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Time for the moon night [FLAC]/1-08 밤 (Time for the moon night) (Instrumental).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Time For Us [FLAC]/1-01 해야 (Sunrise).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Time For Us [FLAC]/1-02 You are not alone.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Time For Us [FLAC]/1-03 기적을 넘어 (L.U.V.).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Time For Us [FLAC]/1-04 GLOW (만화경).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Time For Us [FLAC]/1-05 비밀 이야기 (Our Secret).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Time For Us [FLAC]/1-06 Only 1.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Time For Us [FLAC]/1-07 Truly Love.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Time For Us [FLAC]/1-08 보호색 (Show Up).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Time For Us [FLAC]/1-09 겨울, 끝 (It's You).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Time For Us [FLAC]/1-10 A Starry Sky.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Time For Us [FLAC]/1-11 Love Oh Love.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Time For Us [FLAC]/1-12 Memoria (Korean Ver.).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Time For Us [FLAC]/1-13 해야 (Sunrise) (Inst.).flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Walpurgis Night [FLAC]/01 MAGO.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Walpurgis Night [FLAC]/02 Love Spell.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Walpurgis Night [FLAC]/03 Three Of Cups.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Walpurgis Night [FLAC]/04 GRWM.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Walpurgis Night [FLAC]/05 Secret Diary.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Walpurgis Night [FLAC]/06 Better Me.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Walpurgis Night [FLAC]/07 Night Drive.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Walpurgis Night [FLAC]/08 Apple.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Walpurgis Night [FLAC]/09 Crossroads.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Walpurgis Night [FLAC]/10 Labyrinth.flac
+Jan 01 18:08 : update: added Kpop/GFriend/GFRIEND - Walpurgis Night [FLAC]/11 whhel of the Year.flac
+Jan 01 18:08 : update: added Kpop/GFriend/True Beauty OST Part.2/01. I'm in the Mood for Dancing.mp3
+Jan 01 18:08 : update: added Kpop/GFriend/True Beauty OST Part.2/02. I'm in the mood for Dancing (Inst.).mp3
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/beauty_thebeat/01 dal segno.m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : ffmpeg/aac: channel element 0.0 is not allocated
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/beauty_thebeat/02 love4eva (feat. Grimes).m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/beauty_thebeat/03 frozen.m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/beauty_thebeat/04 one way.m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : ffmpeg/aac: channel element 0.0 is not allocated
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/beauty_thebeat/05 rendezvous 18.6Y.m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/favOriTe - Single/01 favOriTe.m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/LOOΠΔ 1-3/Love _ Evil/01 Love _ Evil.m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/LOOΠΔ 1-3/Love _ Evil/02 알 수 없는 비밀 (Sonatine).m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/LOOΠΔ 1-3/Love _ Evil/03 비의 목소리 51Db (Rain 51Db).m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/LOOΠΔ 1-3/Love _ Evil/04 지금, 좋아해 (Love _ Live).m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : ffmpeg/mjpeg: EOI missing, emulating
+Jan 01 18:08 : ffmpeg/aac: channel element 0.0 is not allocated
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/LOOΠΔ 1-3/Love _ Evil/05 You and Me Together.m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/LOOΠΔ 1-3/Love _ Evil/06 Fairy Tale.m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/LOOΠΔ 1-3/Love _ Evil/07 3월을 기다려 (Valentine Girl).m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/LOOΠΔ 1-3/Love _ Live - EP/01 Into the New Heart.m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : ffmpeg/aac: channel element 0.0 is not allocated
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/LOOΠΔ 1-3/Love _ Live - EP/02 지금, 좋아해 (Love _ Live).m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/LOOΠΔ 1-3/Love _ Live - EP/03 You and Me Together.m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/LOOΠΔ 1-3/Love _ Live - EP/04 Fairy Tale.m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/LOOΠΔ 1-3/Love _ Live - EP/05 3월을 기다려 (Valentine Girl).m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/LOOΠΔ ODD EYE CIRCLE/01 LOONATIC (English Ver.).m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/LOOΠΔ ODD EYE CIRCLE/Max _ Match/01 ADD.m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/LOOΠΔ ODD EYE CIRCLE/Max _ Match/02 Sweet Crazy Love.m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : ffmpeg/aac: channel element 0.0 is not allocated
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/LOOΠΔ ODD EYE CIRCLE/Max _ Match/03 Uncover.m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/LOOΠΔ ODD EYE CIRCLE/Max _ Match/04 Girl Front.m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/LOOΠΔ ODD EYE CIRCLE/Max _ Match/05 LOONATIC.m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/LOOΠΔ ODD EYE CIRCLE/Max _ Match/06 Chaotic.m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/LOOΠΔ ODD EYE CIRCLE/Max _ Match/07 Starlight.m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/LOOΠΔ ODD EYE CIRCLE/Max _ Match/08 ODD Front.m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/LOOΠΔ ODD EYE CIRCLE/Mix _ Match - EP/01 ODD.m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : ffmpeg/mjpeg: EOI missing, emulating
+Jan 01 18:08 : ffmpeg/aac: channel element 0.0 is not allocated
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/LOOΠΔ ODD EYE CIRCLE/Mix _ Match - EP/02 Girl Front.m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : ffmpeg/mjpeg: EOI missing, emulating
+Jan 01 18:08 : ffmpeg/aac: channel element 0.0 is not allocated
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/LOOΠΔ ODD EYE CIRCLE/Mix _ Match - EP/03 LOONATIC.m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : ffmpeg/mjpeg: EOI missing, emulating
+Jan 01 18:08 : ffmpeg/aac: channel element 0.0 is not allocated
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/LOOΠΔ ODD EYE CIRCLE/Mix _ Match - EP/04 Chaotic.m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : ffmpeg/mjpeg: EOI missing, emulating
+Jan 01 18:08 : ffmpeg/aac: channel element 0.0 is not allocated
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/LOOΠΔ ODD EYE CIRCLE/Mix _ Match - EP/05 Starlight.m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/LOOΠΔ solos/Choerry - Single/01 Love Cherry Motion (최리).m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/LOOΠΔ solos/Choerry - Single/02 Puzzle (진솔, 최리).m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : ffmpeg/aac: channel element 0.0 is not allocated
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/LOOΠΔ solos/Chuu - Single/01 Heart Attack (츄).m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : ffmpeg/aac: channel element 0.0 is not allocated
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/LOOΠΔ solos/Chuu - Single/02 Girl_s Talk (이브, 츄).m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/LOOΠΔ solos/Go Won - Single/01 One _ Only (고원).m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : ffmpeg/aac: channel element 0.0 is not allocated
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/LOOΠΔ solos/Go Won - Single/02 See Saw (츄, 고원) (feat. 김립).m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/LOOΠΔ solos/HaSeul - Single/01 The Carol (이달의 소녀, 하슬).m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/LOOΠΔ solos/HaSeul - Single/02 소년, 소녀 (하슬).m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/LOOΠΔ solos/HeeJin - Single/01 ViViD (희진).m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/LOOΠΔ solos/HeeJin - Single/02 ViViD (Acoustic Mix).m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/LOOΠΔ solos/HyunJin - Single/01 I_ll Be There (희진, 현진).m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/LOOΠΔ solos/HyunJin - Single/02 다녀가요 (현진).m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/LOOΠΔ solos/JinSoul - Single/01 Singing in the Rain (진솔).m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/LOOΠΔ solos/JinSoul - Single/02 Love Letter (김립, 진솔).m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/LOOΠΔ solos/Kim Lip - Single/01 Eclipse (Prod. by Daniel Obi Klein) (김립).m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/LOOΠΔ solos/Kim Lip - Single/02 Twilight (Prod. by Cha Cha Malone) (김립).m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/LOOΠΔ solos/Olivia Hye - Single/01 Egoist (Olivia Hye) (feat. 진솔) 2.m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/LOOΠΔ solos/Olivia Hye - Single/02 Rosy (고원, Olivia Hye) (feat. 희진) 2.m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/LOOΠΔ solos/The Carol 2.0 - Single/01 The Carol 2.0 (ViVi, 최리, 이브).m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/LOOΠΔ solos/ViVi - Single/01 Everyday I Love You (feat. 하슬) (ViVi).m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/LOOΠΔ solos/ViVi - Single/02 Everyday I Need You (feat. 진솔) (ViVi).m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/LOOΠΔ solos/YeoJin - Single/01 키스는 다음에 (여진).m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/LOOΠΔ solos/YeoJin - Single/02 My Sunday (희진, 현진).m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/LOOΠΔ solos/YeoJin - Single/03 My Melody (하슬, 여진).m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : ffmpeg/aac: channel element 0.0 is not allocated
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/LOOΠΔ solos/Yves - Single/01 new (이브).m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/LOOΠΔ solos/Yves - Single/02 D-1 (이브).m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/Orbit 1.0 - Single (CD Rip)/01 지금 더 좋아해.m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/Orbit 1.0 - Single (CD Rip)/02 Egoist (Olivia Hye) (feat. 진솔) [English Ver.].m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/Orbit 1.0 - Single (CD Rip)/03 Hi High (Remix Ver.).m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : ffmpeg/mjpeg: EOI missing, emulating
+Jan 01 18:08 : ffmpeg/aac: channel element 0.0 is not allocated
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/[#] - EP/01 #.m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/[#] - EP/02 So What.m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/[#] - EP/03 Number 1.m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/[#] - EP/04 Oh (Yes I Am).m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : ffmpeg/aac: channel element 0.0 is not allocated
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/[#] - EP/05 땡땡땡 Ding Ding Dong.m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/[#] - EP/06 365.m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : ffmpeg/mjpeg: EOI missing, emulating
+Jan 01 18:08 : ffmpeg/aac: channel element 0.0 is not allocated
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/[+ +] - EP/01 + +.m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/[+ +] - EP/02 Hi High.m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : ffmpeg/aac: channel element 0.0 is not allocated
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/[+ +] - EP/03 favOriTe.m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/[+ +] - EP/04 열기.m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : ffmpeg/mjpeg: EOI missing, emulating
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/[+ +] - EP/05 Perfect Love.m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/[+ +] - EP/06 Stylish.m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Unknown cover type: 0x0.
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/[X X]/24bit 44khz Lossless/01 X X.m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Unknown cover type: 0x0.
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/[X X]/24bit 44khz Lossless/02 Butterfly.m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Unknown cover type: 0x0.
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/[X X]/24bit 44khz Lossless/03 위성 (Satellite).m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Unknown cover type: 0x0.
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/[X X]/24bit 44khz Lossless/04 Curiosity.m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Unknown cover type: 0x0.
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/[X X]/24bit 44khz Lossless/05 색깔 (Colors).m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Unknown cover type: 0x0.
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/[X X]/24bit 44khz Lossless/06 Where you at.m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Unknown cover type: 0x0.
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/[X X]/24bit 44khz Lossless/07 Stylish.m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Unknown cover type: 0x0.
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/[X X]/24bit 44khz Lossless/08 Perfect Love.m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Unknown cover type: 0x0.
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/[X X]/24bit 44khz Lossless/09 열기.m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Unknown cover type: 0x0.
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/[X X]/24bit 44khz Lossless/10 favOriTe.m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Unknown cover type: 0x0.
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/[X X]/24bit 44khz Lossless/11 Hi High.m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Unknown cover type: 0x0.
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/[X X]/24bit 44khz Lossless/12 + +.m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/[X X]/iTunes Plus EP/01 X X.m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/[X X]/iTunes Plus EP/02 Butterfly.m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/[X X]/iTunes Plus EP/03 위성 (Satellite).m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/[X X]/iTunes Plus EP/04 Curiosity.m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/[X X]/iTunes Plus EP/05 색깔 (Colors).m4a
+Jan 01 18:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jan 01 18:08 : update: added Kpop/LOOΠΔ/[X X]/iTunes Plus EP/06 Where you at.m4a
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - CLOSER [FLAC]/1-01 Closer.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - CLOSER [FLAC]/1-02 Say No More.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - CLOSER [FLAC]/1-03 Playground.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - CLOSER [FLAC]/1-04 Sugar Baby.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - CLOSER [FLAC]/1-05 Round About.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - COLORING BOOK [FLAC]/1-01 컬러링북 (Coloring Book).flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - COLORING BOOK [FLAC]/1-02 Real World.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - COLORING BOOK [FLAC]/1-03 Agit.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - COLORING BOOK [FLAC]/1-04 In My Dreams.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - COLORING BOOK [FLAC]/1-05 Perfect Day.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/OH MY GIRL - Dear OHMYGIRL [FLAC]/01  Dun Dun Dance.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/OH MY GIRL - Dear OHMYGIRL [FLAC]/02 Dear you.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/OH MY GIRL - Dear OHMYGIRL [FLAC]/03 My doll.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/OH MY GIRL - Dear OHMYGIRL [FLAC]/04 Quest.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/OH MY GIRL - Dear OHMYGIRL [FLAC]/05 Who comes who knows.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/OH MY GIRL - Dear OHMYGIRL [FLAC]/06 Swan.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - Eternally [FLAC]/1-01 BUNGEE (Japanese Version).flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - Eternally [FLAC]/1-02 Eternally.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - Eternally [FLAC]/1-03 Precious Moment.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - Eternally [FLAC]/1-04 Fly to the Sky.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - Eternally [FLAC]/1-05 Polaris.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - Eternally [FLAC]/1-06 Guerilla.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - Eternally [FLAC]/1-07 BUNGEE (Fall in Love).flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - Eternally [FLAC]/1-08 Love O'clock.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/OH MY GIRL - Etoile／Nonstop Japanese ver. [FLAC]/01. Etoile.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/OH MY GIRL - Etoile／Nonstop Japanese ver. [FLAC]/02. Nonstop Japanese ver..flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/OH MY GIRL - Etoile／Nonstop Japanese ver. [FLAC]/03. Etoile Korean ver..flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/OH MY GIRL - Etoile／Nonstop Japanese ver. [FLAC]/04. Etoile English ver..flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/OH MY GIRL - Etoile／Nonstop Japanese ver. [FLAC]/05. Nonstop Japanese ver. (instrumental).flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - FALL IN LOVE [FLAC]/1-01 BUNGEE (Fall in Love).flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - FALL IN LOVE [FLAC]/1-02 Tropical Love.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - FALL IN LOVE [FLAC]/1-03 다섯 번째 계절 (SSFWL).flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - FALL IN LOVE [FLAC]/1-04 소나기.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - FALL IN LOVE [FLAC]/1-05 미제 (Case No.L5VE).flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - FALL IN LOVE [FLAC]/1-06 Tic Toc.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - FALL IN LOVE [FLAC]/1-07 유성 (Gravity).flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - FALL IN LOVE [FLAC]/1-08 Crime Scene.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - FALL IN LOVE [FLAC]/1-09 심해 (마음이라는 바다).flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - FALL IN LOVE [FLAC]/1-10 Vogue.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - FALL IN LOVE [FLAC]/1-11 Checkmate.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - FALL IN LOVE [FLAC]/1-12 다섯 번째 계절 (SSFWL) (Inst.).flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - Listen to My Word [FLAC]/1-01 내 얘길 들어봐 (A-ing).flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - Listen to My Word [FLAC]/1-02 한여름의 크리스마스.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - Listen to My Word [FLAC]/1-03 Je T'aime.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - Listen to My Word [FLAC]/1-04 거짓말도 보여요.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - NONSTOP [FLAC]/1-01 살짝 설렜어 (Nonstop).flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - NONSTOP [FLAC]/1-02 Dolphin.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - NONSTOP [FLAC]/1-03 꽃차 (Flower Tea).flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - NONSTOP [FLAC]/1-04 NE♡N.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - NONSTOP [FLAC]/1-05 Krystal.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - OH MY GIRL Japan 2nd Album [FLAC]/1-01 五番目の季節 (Japanese ver.).flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - OH MY GIRL Japan 2nd Album [FLAC]/1-02 A-ing (Japanese ver.).flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - OH MY GIRL Japan 2nd Album [FLAC]/1-03 一歩二歩 (Japanese ver.).flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - OH MY GIRL Japan 2nd Album [FLAC]/1-04 Twilight (Japanese ver.).flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - OH MY GIRL Japan 2nd Album [FLAC]/1-05 Sixteen (Japanese ver.).flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - OH MY GIRL Japan 2nd Album [FLAC]/1-06 Touch My Heart.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - OH MY GIRL Japan 2nd Album [FLAC]/1-07 抱きしめるの.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - OH MY GIRL Japan 2nd Album [FLAC]/1-08 五番目の季節 (SSFWL).flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - OH MY GIRL JAPAN DEBUT ALBUM [FLAC]/1-01 花火 (Remember Me) (Japanese ver.).flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - OH MY GIRL JAPAN DEBUT ALBUM [FLAC]/1-02 Secret Garden (Japanese ver.).flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - OH MY GIRL JAPAN DEBUT ALBUM [FLAC]/1-03 Coloring Book (Japanese ver.).flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - OH MY GIRL JAPAN DEBUT ALBUM [FLAC]/1-04 WINDY DAY (Japanese ver.).flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - OH MY GIRL JAPAN DEBUT ALBUM [FLAC]/1-05 LIAR LIAR (Japanese ver.).flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - OH MY GIRL JAPAN DEBUT ALBUM [FLAC]/1-06 CLOSER (Japanese ver.).flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - OH MY GIRL JAPAN DEBUT ALBUM [FLAC]/1-07 CUPID (Japanese ver.).flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - OH MY GIRL JAPAN DEBUT ALBUM [FLAC]/1-08 花火 (Remember Me).flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - OH MY GIRL JAPAN DEBUT ALBUM [FLAC]/1-09 Secret Garden.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - OH MY GIRL JAPAN DEBUT ALBUM [FLAC]/1-10 Coloring Book.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - OH MY GIRL JAPAN DEBUT ALBUM [FLAC]/1-11 WINDY DAY.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - OH MY GIRL JAPAN DEBUT ALBUM [FLAC]/1-12 LIAR LIAR.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - OH MY GIRL JAPAN DEBUT ALBUM [FLAC]/1-13 CLOSER.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - OH MY GIRL JAPAN DEBUT ALBUM [FLAC]/1-14 CUPID.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - Oh My Girl [FLAC]/1-01 OH MY GIRL!.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - Oh My Girl [FLAC]/1-02 CUPID.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - Oh My Girl [FLAC]/1-03 HOT SUMMER NIGHTS.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - Oh My Girl [FLAC]/1-04 궁금한걸요.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - PO~MYGIRL [FLAC]/1-01 SUPADUPA (천천히 해봐).flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - PO~MYGIRL [FLAC]/1-02 바라밤.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - PO~MYGIRL [FLAC]/1-03 SUPADUPA (천천히 해봐) (Inst.).flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - PO~MYGIRL [FLAC]/1-04 바라밤 (Inst.).flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - REMEMBER ME [FLAC]/1-01 불꽃놀이 (Remember Me).flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - REMEMBER ME [FLAC]/1-02 메아리 (Echo).flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - REMEMBER ME [FLAC]/1-03 Twilight.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - REMEMBER ME [FLAC]/1-04 Illusion.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - REMEMBER ME [FLAC]/1-05 우리 이야기 (Our Story).flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - Rocket Ride [FLAC]/1-01 Rocket Ride (feat. Mougleta).mp3
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - Rocket Ride [FLAC]/1-02 Rocket Ride (Korean Version).flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - Secret Garden [FLAC]/1-01 비밀정원 (Secret Garden).flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - Secret Garden [FLAC]/1-02 Love O'clock.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - Secret Garden [FLAC]/1-03 Butterfly.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - Secret Garden [FLAC]/1-04 Sixteen.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - Secret Garden [FLAC]/1-05 Magic.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - WINDY DAY [FLAC]/1-01 WINDY DAY.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - WINDY DAY [FLAC]/1-02 STUPID IN LOVE.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - WINDY DAY [FLAC]/1-03 LIAR LIAR.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - WINDY DAY [FLAC]/1-04 B612.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - WINDY DAY [FLAC]/1-05 I FOUND LOVE.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - WINDY DAY [FLAC]/1-06 KNOCK KNOCK.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - WINDY DAY [FLAC]/1-07 한발짝 두발짝.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl - WINDY DAY [FLAC]/1-08 LIAR LIAR (Chinese Ver).flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl Banhana - Banana ga Taberenai Saru [FLAC]/1-01 バナナが食べれないサル.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl Banhana - Banana ga Taberenai Saru [FLAC]/1-02 そうなんだって.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl Banhana - Banana ga Taberenai Saru [FLAC]/1-03 惚れたんじゃない.flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl Banhana - Banana ga Taberenai Saru [FLAC]/1-04 バナナが食べれないサル (Instrumental).flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl Banhana - Banana ga Taberenai Saru [FLAC]/1-05 そうなんだって (Instrumental).flac
+Jan 01 18:08 : update: added Kpop/OH MY GIRL/Oh My Girl Banhana - Banana ga Taberenai Saru [FLAC]/1-06 惚れたんじゃない (Instrumental).flac
+Jan 01 19:49 : player: played "Kpop/OH MY GIRL/Oh My Girl - REMEMBER ME [FLAC]/1-01 불꽃놀이 (Remember Me).flac"
+Jan 01 19:49 : config: option 'device' on line 12 was not recognized
+Jan 01 21:06 : config: option 'device' on line 12 was not recognized
+Jan 01 22:24 : config: option 'device' on line 12 was not recognized
+Jan 01 22:25 : client: [2] command "close" during idle
+Jan 01 22:46 : player: played "Kpop/OH MY GIRL/Oh My Girl - REMEMBER ME [FLAC]/1-03 Twilight.flac"
+Jan 01 22:46 : config: option 'device' on line 12 was not recognized
+Jan 01 23:29 : config: option 'device' on line 12 was not recognized
+Jan 01 23:30 : config: option 'device' on line 12 was not recognized
+Jan 01 23:34 : player: played "Kpop/OH MY GIRL/Oh My Girl - REMEMBER ME [FLAC]/1-04 Illusion.flac"
+Jan 01 23:38 : player: played "Kpop/OH MY GIRL/Oh My Girl - REMEMBER ME [FLAC]/1-05 우리 이야기 (Our Story).flac"
+Jan 01 23:39 : config: option 'device' on line 12 was not recognized
+Jan 01 23:41 : player: played "Kpop/OH MY GIRL/Oh My Girl - Rocket Ride [FLAC]/1-01 Rocket Ride (feat. Mougleta).mp3"
+Jan 01 23:44 : player: played "Kpop/OH MY GIRL/Oh My Girl - Rocket Ride [FLAC]/1-02 Rocket Ride (Korean Version).flac"
+Jan 01 23:45 : player: played "Kpop/OH MY GIRL/Oh My Girl - Secret Garden [FLAC]/1-01 비밀정원 (Secret Garden).flac"
+Jan 01 23:46 : config: option 'device' on line 12 was not recognized
+Jan 01 23:52 : config: option 'device' on line 12 was not recognized
+Jan 01 23:55 : player: played "Kpop/OH MY GIRL/Oh My Girl - Secret Garden [FLAC]/1-01 비밀정원 (Secret Garden).flac"
+Jan 01 23:56 : config: option 'device' on line 12 was not recognized
+Jan 01 23:59 : player: played "Kpop/OH MY GIRL/Oh My Girl - Secret Garden [FLAC]/1-01 비밀정원 (Secret Garden).flac"
+Jan 02 00:02 : config: option 'device' on line 12 was not recognized
+Jan 02 00:04 : config: option 'device' on line 12 was not recognized
+Jan 02 00:05 : player: played "Kpop/OH MY GIRL/Oh My Girl - Secret Garden [FLAC]/1-02 Love O'clock.flac"
+Jan 02 00:07 : config: option 'device' on line 12 was not recognized
+Jan 02 00:08 : config: option 'device' on line 12 was not recognized
+Jan 02 00:09 : config: option 'device' on line 12 was not recognized
+Jan 02 00:11 : config: option 'device' on line 12 was not recognized
+Jan 02 00:12 : config: option 'device' on line 12 was not recognized
+Jan 02 00:13 : config: option 'device' on line 12 was not recognized
+Jan 02 00:26 : config: option 'device' on line 12 was not recognized
+Jan 02 00:26 : client: [0] command "close" during idle
+Jan 02 00:28 : config: option 'device' on line 12 was not recognized
+Jan 02 00:28 : player: played "Kpop/OH MY GIRL/Oh My Girl - Secret Garden [FLAC]/1-01 비밀정원 (Secret Garden).flac"
+Jan 02 00:29 : config: option 'device' on line 12 was not recognized
+Jan 02 00:34 : config: option 'device' on line 12 was not recognized
+Jan 02 00:36 : player: played "Kpop/OH MY GIRL/Oh My Girl - Secret Garden [FLAC]/1-01 비밀정원 (Secret Garden).flac"
+Jan 02 00:45 : config: option 'device' on line 12 was not recognized
+Jan 02 00:48 : config: option 'device' on line 12 was not recognized
+Jan 02 00:50 : config: option 'device' on line 12 was not recognized
+Jan 02 01:04 : config: option 'device' on line 12 was not recognized
+Jan 02 01:08 : player: played "Kpop/GFriend/GFRIEND - Fallin' Light [FLAC]/1-06 My My My!.flac"
+Jan 02 08:53 : config: option 'device' on line 12 was not recognized
+Jan 02 08:54 : player: played "Kpop/GFriend/GFRIEND - Fallin' Light [FLAC]/1-06 My My My!.flac"
+Jan 02 09:02 : player: played "Kpop/GFriend/GFRIEND - Kyou Kara Watashitachi wa ~GFRIEND 1st Best~ [FLAC]/1-06 TRUST -JP ver.-.flac"
+Jan 02 09:05 : player: played "Kpop/OH MY GIRL/Oh My Girl - CLOSER [FLAC]/1-01 Closer.flac"
+Jan 02 09:54 : config: option 'device' on line 12 was not recognized
