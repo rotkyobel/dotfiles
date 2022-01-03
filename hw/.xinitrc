@@ -42,7 +42,6 @@ redshift &
 dunst &
 xcompmgr &
 udiskie &
-nm-applet &
 unclutter --timeout 3 &
 wal -R &
 $HOME/.fehbg &

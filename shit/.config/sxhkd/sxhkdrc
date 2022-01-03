@@ -14,7 +14,7 @@ super + Escape
 
 # browser
 super + shift + b
-  brave
+  chromium
 # vscode
 super + shift + c
   code
