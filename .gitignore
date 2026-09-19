@@ -4,6 +4,7 @@
 # work, so nothing is tracked unless it is named here.
 *
 !.gitignore
+!.gitattributes
 !CLAUDE.md
 !README.md
 !settings.json
