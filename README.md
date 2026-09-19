@@ -73,13 +73,20 @@ Everything else in this directory is runtime state, not config: `backups/`
 
 ## What this repo tracks
 
-`.gitignore` is an allowlist. Five files are versioned — this README, the two
-config files, the statusline script and the ignore file itself. Everything else
+`.gitignore` is an allowlist. Six files are versioned — this README, the two
+config files, the statusline script, the ignore file and `.gitattributes`. Everything else
 here is runtime state Claude Code owns: session transcripts under `projects/`,
 `history.jsonl`, the caches, `sessions/`, `shell-snapshots/`, `telemetry/`, and
 the account-synced `skills/synced` and `plugins/synced`. The transcripts and the
 per-project memory files under `projects/*/memory/` carry client work and stay
 out of git regardless of how the repo is hosted.
+
+On Windows only `CLAUDE.md` and the ignore rules carry over unchanged.
+`statusline/render.sh` needs bash plus `jq`, so it runs under WSL or Git Bash
+but not cmd or PowerShell, and the `statusLine` command in `settings.json`
+points at it with a `$HOME` path that neither Windows shell expands — override
+that key locally there. `.gitattributes` pins the script to LF so at least the
+line endings are not a third surprise.
 
 Two things live outside this directory and are not captured here:
 
