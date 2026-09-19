@@ -1,0 +1,11 @@
+# Allowlist, not a denylist: this directory is mostly runtime state that Claude
+# Code recreates and rewrites on its own (session transcripts, caches, history,
+# synced skills). New state dirs appear without warning, and some hold client
+# work, so nothing is tracked unless it is named here.
+*
+!.gitignore
+!CLAUDE.md
+!README.md
+!settings.json
+!statusline/
+!statusline/render.sh
