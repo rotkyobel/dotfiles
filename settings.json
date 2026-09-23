@@ -12,5 +12,6 @@
   "skipDangerousModePermissionPrompt": true,
   "theme": "dark-ansi",
   "agentPushNotifEnabled": false,
-  "syncClaudeAiSkills": false
+  "syncClaudeAiSkills": false,
+  "syncClaudeAiPlugins": false
 }

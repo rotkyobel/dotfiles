@@ -3,15 +3,17 @@
     CLAUDE.md         Global preferences (commit style, comment density).
                       Applies everywhere; a project's own CLAUDE.md composes
                       on top and wins locally.
-    settings.json     Harness config, 8 keys. No hooks; `statusLine` is the
+    settings.json     Harness config, 9 keys. No hooks; `statusLine` is the
                       only entry pointing at a script — no inline shell.
     statusline/
       render.sh       statusLine entry point. The visible two rows:
                       ╭─ ◆ dir · model · effort · lines
                       ╰─ branch dirty ahead · context bar used/size
-    skills/           Empty on purpose. No global skills are installed.
-                      Account sync is off (`syncClaudeAiSkills: false`), so
-                      claude.ai skills no longer land in skills/synced/.
+
+No skills/ or plugins/ directory: nothing is installed globally, and account
+sync is off for both (`syncClaudeAiSkills` and `syncClaudeAiPlugins` set to
+false), so claude.ai no longer drops anything into skills/synced/ or
+plugins/synced/.
 
 ## Statusline legend
 
