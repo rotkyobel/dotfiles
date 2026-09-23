@@ -5,7 +5,8 @@
 *
 !.gitignore
 !.gitattributes
-!CLAUDE.md
+!rules/
+!rules/*.md
 !README.md
 !settings.json
 !statusline/

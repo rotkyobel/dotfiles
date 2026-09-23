@@ -1,4 +1,6 @@
 {
+  "syncClaudeAiSkills": false,
+  "syncClaudeAiPlugins": false,
   "attribution": {
     "commit": "",
     "pr": ""
@@ -12,6 +14,13 @@
   "skipDangerousModePermissionPrompt": true,
   "theme": "dark-ansi",
   "agentPushNotifEnabled": false,
-  "syncClaudeAiSkills": false,
-  "syncClaudeAiPlugins": false
+  "modelSettings": {
+    "claude-opus-5-5": {
+      "effortLevel": "high"
+    }
+  },
+  "spinnerTipsEnabled": false,
+  "promptSuggestionEnabled": false,
+  "feedbackSurveyRate": 0,
+  "includeGitInstructions": false
 }

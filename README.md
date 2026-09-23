@@ -1,10 +1,13 @@
 # Claude config
 
-    CLAUDE.md         Global preferences (commit style, comment density).
-                      Applies everywhere; a project's own CLAUDE.md composes
+    rules/            Global instructions, one topic per file, all loaded
+                      automatically in every session. No CLAUDE.md: the rules
+                      folder replaces it. A project's own CLAUDE.md composes
                       on top and wins locally.
-    settings.json     Harness config, 9 keys. No hooks; `statusLine` is the
-                      only entry pointing at a script — no inline shell.
+      commits.md      No attribution, concise messages, match the repo's log.
+      comments.md     Comment sparingly, one line, only a non-obvious why.
+    settings.json     Harness config. No hooks; `statusLine` is the only
+                      entry pointing at a script — no inline shell.
     statusline/
       render.sh       statusLine entry point. The visible two rows:
                       ╭─ ◆ dir · model · effort · lines
@@ -14,6 +17,21 @@ No skills/ or plugins/ directory: nothing is installed globally, and account
 sync is off for both (`syncClaudeAiSkills` and `syncClaudeAiPlugins` set to
 false), so claude.ai no longer drops anything into skills/synced/ or
 plugins/synced/.
+
+## Settings
+
+    UI noise off      spinnerTipsEnabled, promptSuggestionEnabled false;
+                      feedbackSurveyRate 0; agentPushNotifEnabled false.
+    Git prompt off    includeGitInstructions false. The built-in commit/PR
+                      instructions are dropped; rules/commits.md covers commit
+                      style. They also carried safety habits (no force push,
+                      no skipped hooks), which now rest on permissions.
+    Sync off          syncClaudeAiSkills, syncClaudeAiPlugins false.
+    modelSettings     Written by Claude Code itself when the model changes;
+                      per-model effort. Harmless duplicate of effortLevel.
+
+To add a topic, drop a new file in `rules/` — the `rules/*.md` allowlist line
+already covers it.
 
 ## Statusline legend
 
@@ -71,15 +89,15 @@ Everything else in this directory is runtime state, not config: `backups/`
 
 ## What this repo tracks
 
-`.gitignore` is an allowlist. Six files are versioned — this README, the two
-config files, the statusline script, the ignore file and `.gitattributes`. Everything else
-here is runtime state Claude Code owns: session transcripts under `projects/`,
-`history.jsonl`, the caches, `sessions/`, `shell-snapshots/`, `telemetry/`, and
-the account-synced `skills/synced` and `plugins/synced`. The transcripts and the
+`.gitignore` is an allowlist: this README, `settings.json`, `rules/*.md`, the
+statusline script, the ignore file and `.gitattributes`. A new file anywhere
+else needs its own `!` line or git skips it silently. Everything else here is
+runtime state Claude Code owns: session transcripts under `projects/`,
+`history.jsonl`, the caches, `sessions/`, `shell-snapshots/`, `telemetry/`. The transcripts and the
 per-project memory files under `projects/*/memory/` carry client work and stay
 out of git regardless of how the repo is hosted.
 
-On Windows only `CLAUDE.md` and the ignore rules carry over unchanged.
+On Windows only `rules/` and the ignore rules carry over unchanged.
 `statusline/render.sh` needs bash plus `jq`, so it runs under WSL or Git Bash
 but not cmd or PowerShell, and the `statusLine` command in `settings.json`
 points at it with a `$HOME` path that neither Windows shell expands — override
