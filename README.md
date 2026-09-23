@@ -3,19 +3,15 @@
     CLAUDE.md         Global preferences (commit style, comment density).
                       Applies everywhere; a project's own CLAUDE.md composes
                       on top and wins locally.
-    settings.json     Harness config, 7 keys. No hooks; `statusLine` is the
+    settings.json     Harness config, 8 keys. No hooks; `statusLine` is the
                       only entry pointing at a script — no inline shell.
     statusline/
       render.sh       statusLine entry point. The visible two rows:
                       ╭─ ◆ dir · model · effort · lines
                       ╰─ branch dirty ahead · context bar used/size
-    skills/           Symlinks only. The real skills live in
-                      ~/.agents/skills, installed with the `skills` CLI
-                      (lockfile: ~/.agents/.skill-lock.json). Two kept:
-                      improve (shadcn), frontend-design (anthropics).
-      synced/         Account-synced Anthropic skills (docs, docx, pdf, pptx,
-                      xlsx, morning, skill-creator, import-memory). Managed
-                      remotely — not ours to edit. Same for plugins/synced/.
+    skills/           Empty on purpose. No global skills are installed.
+                      Account sync is off (`syncClaudeAiSkills: false`), so
+                      claude.ai skills no longer land in skills/synced/.
 
 ## Statusline legend
 
@@ -90,8 +86,8 @@ line endings are not a third surprise.
 
 Two things live outside this directory and are not captured here:
 
-- The skills in `~/.agents/skills` (see above) — reinstall them with the
-  `skills` CLI, then symlink each into `skills/`.
+- Skills. None are installed. If that changes, the `skills` CLI puts them in
+  `~/.agents/skills`; symlink each into `skills/` for Claude Code to load it.
 - MCP servers in `~/.claude.json` — re-add `context7` with `claude mcp add`.
   Its API key is not in this repo and must be supplied again.
 

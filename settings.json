@@ -12,5 +12,5 @@
   "skipDangerousModePermissionPrompt": true,
   "theme": "dark-ansi",
   "agentPushNotifEnabled": false,
-  "model": "claude-fable-5-1[1m]"
+  "syncClaudeAiSkills": false
 }
