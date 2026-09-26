@@ -140,9 +140,9 @@ fi
 
 # After Kaku, which redefines ll/la/l as `ls -lhF` (-h is --header in eza).
 if (( $+commands[eza] )); then
-  alias ls='eza --group-directories-first'
-  alias l='eza --group-directories-first -l'
-  alias ll='eza --group-directories-first -l'
-  alias la='eza --group-directories-first -la'
-  alias tree='eza -T'
+  alias ls='eza --group-directories-first --icons=auto'
+  alias l='ls -l'
+  alias ll='ls -l'
+  alias la='ls -la'
+  alias tree='ls -T'
 fi
