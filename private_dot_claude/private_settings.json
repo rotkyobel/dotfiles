@@ -5,22 +5,22 @@
     "commit": "",
     "pr": ""
   },
+  "includeGitInstructions": false,
   "statusLine": {
     "type": "command",
     "command": "\"$HOME/.claude/statusline/render.sh\""
   },
   "outputStyle": "Concise",
+  "feedbackSurveyRate": 0,
+  "spinnerTipsEnabled": false,
   "effortLevel": "high",
-  "skipDangerousModePermissionPrompt": true,
-  "theme": "dark-ansi",
-  "agentPushNotifEnabled": false,
   "modelSettings": {
     "claude-opus-5-5": {
       "effortLevel": "high"
     }
   },
-  "spinnerTipsEnabled": false,
   "promptSuggestionEnabled": false,
-  "feedbackSurveyRate": 0,
-  "includeGitInstructions": false
+  "skipDangerousModePermissionPrompt": true,
+  "theme": "dark-ansi",
+  "agentPushNotifEnabled": false
 }

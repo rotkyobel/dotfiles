@@ -30,8 +30,7 @@ plugins/synced/.
     modelSettings     Written by Claude Code itself when the model changes;
                       per-model effort. Harmless duplicate of effortLevel.
 
-To add a topic, drop a new file in `rules/` — the `rules/*.md` allowlist line
-already covers it.
+To add a topic, drop a new file in `~/.claude/rules/` and `chezmoi add` it.
 
 ## Statusline legend
 
@@ -89,20 +88,25 @@ Everything else in this directory is runtime state, not config: `backups/`
 
 ## What this repo tracks
 
-`.gitignore` is an allowlist: this README, `settings.json`, `rules/*.md`, the
-statusline script, the ignore file and `.gitattributes`. A new file anywhere
-else needs its own `!` line or git skips it silently. Everything else here is
-runtime state Claude Code owns: session transcripts under `projects/`,
-`history.jsonl`, the caches, `sessions/`, `shell-snapshots/`, `telemetry/`. The transcripts and the
-per-project memory files under `projects/*/memory/` carry client work and stay
-out of git regardless of how the repo is hosted.
+This lives in the dotfiles repo under `private_dot_claude/`, managed by
+chezmoi, which only touches files it was given — an allowlist by construction:
+`settings.json`, `rules/*.md` and the statusline script. Add a new file with
+`chezmoi add ~/.claude/<file>`. This README stays in the repo only
+(`.chezmoiignore`). Everything else in `~/.claude` is runtime state Claude Code
+owns: session transcripts under `projects/`, `history.jsonl`, the caches,
+`sessions/`, `shell-snapshots/`, `telemetry/`. The transcripts and the
+per-project memory files under `projects/*/memory/` carry client work and must
+never be added.
 
-On Windows only `rules/` and the ignore rules carry over unchanged.
+Claude Code rewrites `settings.json` itself (key order, `modelSettings`), so
+`chezmoi diff` will show drift there; `chezmoi re-add` keeps the local version.
+
+On Windows only `rules/` carries over unchanged.
 `statusline/render.sh` needs bash plus `jq`, so it runs under WSL or Git Bash
 but not cmd or PowerShell, and the `statusLine` command in `settings.json`
 points at it with a `$HOME` path that neither Windows shell expands — override
-that key locally there. `.gitattributes` pins the script to LF so at least the
-line endings are not a third surprise.
+that key locally there. The repo's `.gitattributes` pins LF so the line endings
+are not a third surprise.
 
 Two things live outside this directory and are not captured here:
 

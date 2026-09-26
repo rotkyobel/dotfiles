@@ -1,3 +1,0 @@
-# Git for Windows checks out CRLF by default, which breaks a shell script at the
-# shebang. Pin LF so the statusline still runs under WSL or Git Bash.
-*.sh text eol=lf
