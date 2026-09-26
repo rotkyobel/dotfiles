@@ -1,0 +1,10 @@
+# LazyVim state file: news version, install marker.
+# Enabled extras are declared in lua/config/lazy.lua, not here.
+lazyvim.json
+
+# Neovim
+*.swp
+*.swo
+.netrwhist
+tags
+doc/tags
