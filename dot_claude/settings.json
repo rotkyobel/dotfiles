@@ -1,0 +1,26 @@
+{
+  "syncClaudeAiSkills": false,
+  "syncClaudeAiPlugins": false,
+  "attribution": {
+    "commit": "",
+    "pr": ""
+  },
+  "statusLine": {
+    "type": "command",
+    "command": "\"$HOME/.claude/statusline/render.sh\""
+  },
+  "outputStyle": "Concise",
+  "effortLevel": "high",
+  "skipDangerousModePermissionPrompt": true,
+  "theme": "dark-ansi",
+  "agentPushNotifEnabled": false,
+  "modelSettings": {
+    "claude-opus-5-5": {
+      "effortLevel": "high"
+    }
+  },
+  "spinnerTipsEnabled": false,
+  "promptSuggestionEnabled": false,
+  "feedbackSurveyRate": 0,
+  "includeGitInstructions": false
+}
