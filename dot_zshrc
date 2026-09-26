@@ -71,10 +71,16 @@ bindkey '^[^[' sudo-command-line
 
 # aliases
 alias grep='grep --color=auto'
+# Debian and Ubuntu ship bat as batcat.
 if (( $+commands[bat] )); then
-  alias cat='bat --style=plain --paging=never'
+  bat_cmd=bat
 elif (( $+commands[batcat] )); then
-  alias cat='batcat --style=plain --paging=never'
+  bat_cmd=batcat
+fi
+if [[ -n $bat_cmd ]]; then
+  alias cat="$bat_cmd --style=plain --paging=never"
+  export MANPAGER="sh -c 'col -bx | $bat_cmd -l man -p'"
+  export MANROFFOPT=-c
 fi
 
 alias yolo='claude --dangerously-skip-permissions'
@@ -109,9 +115,38 @@ _cached_init() {
 path=(~/.local/bin $path)
 
 [[ -t 0 && -t 1 ]] && _cached_init fzf --zsh
+if (( $+commands[fd] )); then
+  export FZF_DEFAULT_COMMAND='fd --type f --hidden --exclude .git'
+  export FZF_CTRL_T_COMMAND=$FZF_DEFAULT_COMMAND
+  export FZF_ALT_C_COMMAND='fd --type d --hidden --exclude .git'
+fi
+[[ -n $bat_cmd ]] && export FZF_CTRL_T_OPTS="--preview '$bat_cmd --color=always --style=numbers --line-range=:300 {}'"
+(( $+commands[eza] )) && export FZF_ALT_C_OPTS="--preview 'eza -T --level=2 --color=always --icons=always {}'"
+
+# fzf-tab has to load after compinit and fzf, before anything that wraps widgets.
+if [[ -r $HOMEBREW_PREFIX/share/fzf-tab/fzf-tab.zsh ]]; then
+  source $HOMEBREW_PREFIX/share/fzf-tab/fzf-tab.zsh
+  zstyle ':completion:*' menu no
+  zstyle ':completion:*:descriptions' format '[%d]'
+  zstyle ':fzf-tab:*' switch-group '<' '>'
+  zstyle ':fzf-tab:complete:(cd|z|__zoxide_z):*' fzf-preview 'eza -1 --color=always --icons=always $realpath'
+  # Kaku otherwise rebinds Tab to its own completion widget.
+  KAKU_SMART_TAB_DISABLE=1
+fi
 _cached_init zoxide init zsh
 # Kaku's integration starts its own starship.
 [[ $TERM_PROGRAM != Kaku ]] && _cached_init starship init zsh --print-full-init
+
+# yazi, then cd into wherever it was closed
+if (( $+commands[yazi] )); then
+  y() {
+    local tmp=$(mktemp -t yazi-cwd.XXXXXX) cwd
+    yazi "$@" --cwd-file=$tmp
+    cwd=$(<$tmp)
+    [[ -n $cwd && $cwd != $PWD ]] && builtin cd -- $cwd
+    rm -f -- $tmp
+  }
+fi
 
 # instantclient
 if [[ -d /opt/oracle/instantclient_23_3 ]]; then
