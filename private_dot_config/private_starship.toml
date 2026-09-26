@@ -1,0 +1,59 @@
+# ~/.config/starship.toml
+
+add_newline = false
+command_timeout = 10000
+format = "$username$directory$git_branch$git_status$character"
+
+# ANSI colors intentionally inherit the active terminal theme.
+# Previous static Midnight Current values:
+# white=#9fb1c1, red=#e66b7a, blue=#6aa7d8, yellow=#e6b450,
+# purple=#a78bfa, bright-cyan=#5ccfe6, bright-black=#1f2a3a.
+# Separator readability override before ANSI migration: #667b90.
+[username]
+show_always = true
+style_user = "bold fg:white"
+style_root = "bold fg:red"
+format = '[\[](fg:bright-black)[$user]($style)'
+
+[directory]
+truncate_to_repo = false
+truncation_length = 1
+style = "bold fg:blue"
+read_only_style = "bold fg:red"
+format = '[@](fg:bright-black)[$path]($style)[$read_only]($read_only_style)[\]](fg:bright-black)'
+
+[character]
+success_symbol = "[~](bold fg:bright-cyan)"
+error_symbol = "[~](bold fg:red)"
+format = " $symbol "
+
+[git_branch]
+format = " [$branch(:$remote_branch)]($style)"
+style = "bold fg:yellow"
+
+[git_status]
+format = " [$all_status$ahead_behind]($style)"
+style = "bold fg:red"
+
+[python]
+format = ' [\($virtualenv\)]($style)'
+style = 'bold fg:blue'
+python_binary = ['python3', 'python']
+detect_extensions = []
+detect_files = []
+detect_folders = []
+detect_env_vars = ['VIRTUAL_ENV']
+
+[conda]
+format = ' [\($environment\)]($style)'
+style = 'bold fg:purple'
+ignore_base = false
+
+[package]
+format = " [$symbol$version]($style)"
+style = "bold fg:blue"
+
+# Avoid prompt width issues caused by emoji variation selectors (e.g. ☁️)
+# in some shell/font/wcwidth combinations.
+[aws]
+disabled = true

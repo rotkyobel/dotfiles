@@ -1,0 +1,40 @@
+onboarding = false
+# herdr configuration
+# Curated starting point for a tmux/vim-style workflow.
+
+[theme]
+# Night Current comes from Ghostty through Herdr's built-in terminal palette.
+# Keep theme.custom unset so Terminal uses Ghostty's ANSI colors and the other
+# built-in themes remain unchanged and selectable.
+name = "catppuccin"
+auto_switch = false
+
+[terminal]
+# New panes/tabs inherit the current workspace/pane directory.
+new_cwd = "follow"
+
+[ui]
+sidebar_width = 26
+pane_borders = true
+pane_gaps = true
+show_agent_labels_on_pane_borders = true
+prompt_new_tab_name = false
+# Leave ui.accent unset so each selectable theme controls its own accent.
+
+agent_panel_sort = "spaces"
+[ui.toast]
+delivery = "herdr"
+delay_seconds = 1
+
+[ui.toast.herdr]
+position = "bottom-right"
+
+[ui.sound]
+enabled = true
+
+[session]
+resume_agents_on_restore = true
+
+[experimental]
+pane_history = false
+kitty_graphics = true

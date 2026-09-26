@@ -1,0 +1,5 @@
+{{ if eq .chezmoi.os "windows" -}}
+# Neovim on Windows reads %LOCALAPPDATA%\nvim unless XDG_CONFIG_HOME points elsewhere.
+[Environment]::SetEnvironmentVariable('XDG_CONFIG_HOME', "$HOME\.config", 'User')
+$env:XDG_CONFIG_HOME = "$HOME\.config"
+{{ end -}}

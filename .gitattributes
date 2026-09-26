@@ -1,0 +1,2 @@
+# Git for Windows checks out CRLF by default, which breaks shell scripts at the shebang.
+* text=auto eol=lf

@@ -1,0 +1,9 @@
+README.md
+.claude/README.md
+
+{{ if eq .chezmoi.os "windows" }}
+.zshrc
+.zprofile
+.config/ghostty
+.config/herdr
+{{ end }}

@@ -1,0 +1,59 @@
+# Theme
+theme = Catppuccin Espresso
+
+# Typography
+font-family = Maple Mono NF
+font-style = Regular
+font-size = 16
+font-thicken = true
+adjust-underline-position = 40%
+adjust-underline-thickness = -60%
+
+# Shell
+shell-integration = zsh
+shell-integration-features = no-cursor
+
+# Window
+window-width = 100
+window-height = 48
+window-padding-x = 6
+window-padding-y = 6
+confirm-close-surface = false
+unfocused-split-opacity = 1.0
+
+# Keybinds
+keybind = cmd+d=new_split:right
+keybind = cmd+shift+d=new_split:down
+keybind = cmd+h=goto_split:left
+keybind = cmd+j=goto_split:down
+keybind = cmd+k=goto_split:up
+keybind = cmd+l=goto_split:right
+keybind = cmd+enter=toggle_split_zoom
+keybind = cmd+,=open_config
+keybind = cmd+shift+r=reload_config
+keybind = ctrl+shift+t=toggle_background_opacity
+# Cycles themes/ via toggle-theme.sh (needs a shell prompt; see skhd note in the script)
+keybind = ctrl+shift+y=text:\x15 ~/.config/ghostty/toggle-theme.sh\n
+
+# Transparency
+# macOS: opacity/blur changes often need full restart.
+# background-opacity now lives in each theme file, so themes can differ.
+background-blur = true
+background-opacity-cells = true
+
+# Notifications
+notify-on-command-finish = unfocused
+notify-on-command-finish-action = no-bell,notify
+notify-on-command-finish-after = 10s
+bell-features = title,attention,system
+
+# Alt transparency preset
+# background-opacity = 0.87
+# background-blur = true
+# background-opacity-cells = true
+
+# Safety
+clipboard-paste-protection = true
+
+# herdr
+# command = /opt/homebrew/bin/herdr
