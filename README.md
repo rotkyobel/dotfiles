@@ -3,7 +3,7 @@
 Managed with [chezmoi](https://chezmoi.io). Files are copied into place, not
 symlinked.
 
-    dot_zshrc, dot_zprofile        zsh (oh-my-zsh, mise, fzf, zoxide)
+    dot_zshrc                      zsh (no framework: starship, mise, fzf, zoxide)
     private_dot_config/
       ghostty/                     terminal config, themes, theme toggle
       starship.toml                prompt
