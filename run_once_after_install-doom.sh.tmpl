@@ -1,0 +1,9 @@
+{{ if ne .chezmoi.os "windows" -}}
+#!/bin/sh
+# Doom itself lives outside the repo; only ~/.config/doom is tracked.
+set -eu
+command -v emacs >/dev/null || { echo "doom: emacs not installed, skipping"; exit 0; }
+[ -d "$HOME/.config/emacs" ] && exit 0
+git clone --depth 1 https://github.com/doomemacs/doomemacs "$HOME/.config/emacs"
+"$HOME/.config/emacs/bin/doom" install --force --no-config
+{{ end -}}

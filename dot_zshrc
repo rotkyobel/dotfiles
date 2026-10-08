@@ -113,6 +113,8 @@ _cached_init() {
 (( $+commands[mise] )) && eval "$(mise activate zsh)"
 # Prefer user-managed wrappers over mise-managed binaries.
 path=(~/.local/bin $path)
+# doom (Doom Emacs CLI)
+path=(~/.config/emacs/bin(N) $path)
 
 [[ -t 0 && -t 1 ]] && _cached_init fzf --zsh
 if (( $+commands[fd] )); then

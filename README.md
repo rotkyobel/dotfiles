@@ -9,6 +9,7 @@ symlinked.
       starship.toml                prompt
       nvim/                        LazyVim-based Neovim config
       herdr/config.toml
+      doom/                        Doom Emacs config (Doom itself is cloned by run_once_after_install-doom)
     private_dot_claude/            Claude Code settings, rules, statusline
                                    (see private_dot_claude/README.md)
 
