@@ -6,6 +6,7 @@
     "pr": ""
   },
   "includeGitInstructions": false,
+  "model": "opus",
   "statusLine": {
     "type": "command",
     "command": "\"$HOME/.claude/statusline/render.sh\""
@@ -16,6 +17,9 @@
   "effortLevel": "high",
   "modelSettings": {
     "claude-opus-5-5": {
+      "effortLevel": "high"
+    },
+    "claude-fable-5-1": {
       "effortLevel": "high"
     }
   },
