@@ -1,6 +1,7 @@
 -- Functional verification pass for this config: theme switching, transparency,
--- debug helpers, keymaps, plugin loading, treesitter highlighting, and LSP
--- attach on a real TypeScript file.
+-- debug helpers, keymaps, plugin loading, treesitter highlighting, LSP attach on
+-- a real TypeScript file, stylua formatting, and whether the generated
+-- deep_tide palette still matches its Ghostty theme.
 --
 --   nvim -i NONE --headless -c "luafile scripts/verify.lua" -c "qa!"
 --   cat /tmp/bscenez-verify.txt
@@ -135,6 +136,38 @@ local ok_main, err_main = pcall(function()
     end
   end
   check("buffer-local keymap <leader>cr (inc-rename)", has_buf_map)
+
+  -- Formatting --------------------------------------------------------------
+  -- stylua comes from Mason (LazyVim declares it in mason.nvim's
+  -- ensure_installed), so it is normally not on the shell PATH.
+  local root = vim.fn.stdpath("config")
+  local stylua = vim.fn.stdpath("data") .. "/mason/bin/stylua"
+  if vim.uv.fs_stat(stylua) == nil then
+    stylua = vim.fn.exepath("stylua")
+  end
+  local have_stylua = vim.uv.fs_stat(stylua) ~= nil
+  check("stylua available (mason or PATH)", have_stylua, have_stylua and stylua or "run scripts/mason-sync.lua")
+  if have_stylua then
+    local out = vim.fn.system({ stylua, "--check", root })
+    local offenders = {}
+    for path in out:gmatch("Diff in ([^\n]+)") do
+      offenders[#offenders + 1] = (path:gsub("^%./", ""):gsub(":$", ""))
+    end
+    check("all lua files are stylua-formatted", vim.v.shell_error == 0, table.concat(offenders, " "))
+  end
+
+  -- Generated palette --------------------------------------------------------
+  -- sync() in "check" mode is read-only, so calling it here has no side effect.
+  local palette_ok, palette = pcall(require, "bscenez.palette")
+  check("palette module loads", palette_ok)
+  if palette_ok then
+    local fresh, reason = palette.sync("Deep Tide", root .. "/colors/deep_tide.lua", "check")
+    check(
+      "deep_tide palette matches the Ghostty theme",
+      fresh,
+      fresh and "up to date" or (reason:gsub("\n.*", "") .. " -- run scripts/deep-tide.lua")
+    )
+  end
 end)
 
 if not ok_main then

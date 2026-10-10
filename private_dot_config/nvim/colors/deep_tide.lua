@@ -39,7 +39,7 @@ local c = {
   bright_white = "#f0fcff",
   cursor = "#78e4ff",
   selection = "#13333c",
-  -- surfaces derived from the palette above
+  -- surfaces: no Ghostty equivalent, hand-tuned (see lua/bscenez/palette.lua)
   surface = "#0a1519",
   surface_alt = "#0d1f25",
   -- diff backgrounds, tinted from green / blue / red

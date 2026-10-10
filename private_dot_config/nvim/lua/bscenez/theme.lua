@@ -91,8 +91,14 @@ function M.apply()
     )
   end
 
-  theme = theme or M.themes[M.fallback]
-  M.active = theme == M.themes[name or ""] and name or M.fallback
+  -- M.active records what was actually applied, so an unknown or missing
+  -- Ghostty theme has to resolve to the fallback here too.
+  if theme then
+    M.active = name
+  else
+    theme = M.themes[M.fallback]
+    M.active = M.fallback
+  end
 
   -- Ensure the plugin providing the colorscheme is on the runtimepath before
   -- `:colorscheme` looks it up.

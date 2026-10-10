@@ -24,6 +24,7 @@ colorscheme following whichever [Ghostty](https://ghostty.org) theme is active.
 | `lua/config/autocmds.lua` | Custom autocmds |
 | `lua/bscenez/theme.lua` | Reads the active Ghostty theme and applies the match |
 | `lua/bscenez/debug.lua` | `dd()` dump helper and leak finders |
+| `lua/bscenez/palette.lua` | Reads a Ghostty theme and regenerates a generated colorscheme's palette |
 | `lua/plugins/*.lua` | Plugin overrides and additions |
 | `colors/deep_tide.lua` | Standalone colorscheme generated from a Ghostty theme |
 | `scripts/` | Maintenance and verification scripts (see Verification) |
@@ -39,7 +40,7 @@ The colorscheme follows `theme = <name>` in `~/.config/ghostty/config`:
 | Ghostty theme | Neovim colorscheme | Notes |
 | --- | --- | --- |
 | `Catppuccin Espresso` | `catppuccin-macchiato` | `#0a0a0a` surfaces via `color_overrides` in `lua/plugins/theme.lua` |
-| `Deep Tide` | `deep_tide` | `colors/deep_tide.lua`, generated from the Ghostty palette |
+| `Deep Tide` | `deep_tide` | `colors/deep_tide.lua`, palette regenerated from the Ghostty theme by `scripts/deep-tide.lua` |
 
 Anything else falls back to `Catppuccin Espresso` with a warning.
 
@@ -54,13 +55,43 @@ Neovim cannot observe that, so re-apply with any of:
 - `:ThemeSync`
 - save `~/.config/ghostty/config` from inside Neovim (BufWritePost autocmd)
 
+### Regenerating deep_tide
+
+`colors/deep_tide.lua` keeps its palette in one `local c = { ... }` block. Only
+that block is generated; the ~250 lines of highlight groups below it are
+hand-written and never touched.
+
+Most of the palette is a straight copy of the Ghostty theme (`background`,
+`foreground`, `cursor-color`, `selection-background`, `palette 0-15`). The
+remaining tokens — `surface`, `surface_alt` and the three diff tints — have no
+Ghostty equivalent. They are **hand-tuned constants**, not derived: for every
+pair of palette colours, no single blend alpha reproduces them within rounding.
+They live in `M.derived` in `lua/bscenez/palette.lua`, tagged with the
+background and selection they were tuned against. `scripts/deep-tide.lua` warns
+when the theme has moved off those, so a hand-tuned surface cannot be quietly
+inherited across a theme change.
+
+```sh
+# check only; never writes (the default)
+nvim -i NONE --headless -c "luafile scripts/deep-tide.lua" -c "qa!"
+
+# apply
+BSCENEZ_MODE=write nvim -i NONE --headless -c "luafile scripts/deep-tide.lua" -c "qa!"
+```
+
+`scripts/verify.lua` also asserts the committed palette is in sync.
+
 ### Adding a third theme
 
 1. Drop a palette file in `~/.config/ghostty/themes/`.
 2. Add an entry to `M.themes` in `lua/bscenez/theme.lua`.
 3. If it needs an accent color for UI plugins, add one to `M.ui`.
+4. To have its palette regenerated, add its surfaces to `M.derived` in
+   `lua/bscenez/palette.lua`.
 
-For a bespoke palette, copy `colors/deep_tide.lua` and regenerate the values.
+For a bespoke palette, copy `colors/deep_tide.lua`, complete step 4, then
+regenerate the palette block with `scripts/deep-tide.lua` rather than editing
+hex values by hand.
 
 ## LazyVim extras in use
 
@@ -110,13 +141,29 @@ nvim -i NONE --headless -c "luafile scripts/mason-sync.lua" -c "qa!"
 # which LSP servers are enabled, and are their Mason packages present?
 nvim -i NONE --headless -c "luafile scripts/lsp-status.lua" -c "qa!"
 
-# full functional pass: theme, transparency, keymaps, treesitter, LSP attach
+# is the deep_tide palette still in sync with its Ghostty theme?
+nvim -i NONE --headless -c "luafile scripts/deep-tide.lua" -c "qa!"
+
+# full functional pass: theme, transparency, keymaps, treesitter, LSP attach,
+# stylua formatting and palette sync
 nvim -i NONE --headless -c "luafile scripts/verify.lua" -c "qa!"
 cat /tmp/bscenez-verify.txt
 ```
 
 `verify.lua` always exits 0, because Neovim does; read the report, which ends
 with a `N checks, M failed` line.
+
+Formatting is stylua's job and `stylua.toml` is the only source of truth for it
+(2 spaces, 120 columns). stylua is installed by Mason and therefore not on the
+shell `PATH`, so call it by path:
+
+```sh
+~/.local/share/nvim/mason/bin/stylua --check .   # report
+~/.local/share/nvim/mason/bin/stylua .           # apply
+```
+
+`verify.lua` fails if either the availability of stylua or the formatting of any
+lua file regresses.
 
 ## Gotchas
 
@@ -139,6 +186,15 @@ Learned the hard way, worth keeping in mind:
   lose treesitter highlighting without any error. Prefer `opts` overrides.
 - `require("lazyvim.util")` still resolves, but it is the compatibility path;
   use the `LazyVim` global in new code.
+- **`Deep Tide`'s surfaces are hand-tuned, not computed.** Brute force over every
+  palette pair and alpha step fails to reproduce `surface`, `surface_alt` or the
+  diff tints, so they cannot be derived. They are constants in `M.derived` with a
+  guard against the background moving underneath them. Do not "simplify" them
+  into a blend function.
+- **stylua enforces `column_width = 120` for code, not for comments.** stylua
+  never reflows comments, so a long comment line passes the check silently while
+  a 121-column *statement* fails the whole repo. Long `vim.fn` call chains are the
+  usual offender; let stylua break them rather than raising the limit.
 
 ## Debug helpers
 

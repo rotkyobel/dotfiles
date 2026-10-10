@@ -46,7 +46,8 @@ for _, name in ipairs(names) do
     local ok, p = pcall(registry.get_package, pkg)
     if ok then
       -- fs_stat follows symlinks, unlike vim.fn.executable().
-      present = tostring(p:is_installed() and vim.uv.fs_stat(vim.fn.stdpath("data") .. "/mason/packages/" .. pkg) ~= nil)
+      present =
+        tostring(p:is_installed() and vim.uv.fs_stat(vim.fn.stdpath("data") .. "/mason/packages/" .. pkg) ~= nil)
     else
       present = "no-pkg"
     end
