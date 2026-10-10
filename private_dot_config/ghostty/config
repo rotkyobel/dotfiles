@@ -6,7 +6,8 @@ font-family = Maple Mono NF
 font-style = Regular
 font-size = 16
 font-thicken = true
-adjust-underline-position = 40%
+adjust-cell-height = 15%
+adjust-underline-position = 15%
 adjust-underline-thickness = -60%
 
 # Shell
